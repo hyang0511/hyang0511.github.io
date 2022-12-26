@@ -140,6 +140,7 @@ Huan Yang received his BS and Ph.D. degrees in computer science in 2014 and 2019
 - Unsupervised Extraction of Video Highlights via Robust Recurrent Auto-Encoders
   
   **Huan Yang**, Baoyuan Wang, Stephen Lin, David Wipf, Minyi Guo, Baining Guo
+  
   *ICCV 2015* [\[paper\]](https://arxiv.org/abs/1510.01442)
 
 <span class='anchor' id='projects'></span>
