@@ -40,41 +40,31 @@ Huan Yang received his BS and Ph.D. degrees in computer science in 2014 and 2019
   
   Yuchong Sun, Hongwei Xue, Ruihua Song, Bei Liu, **Huan Yang**, Jianlong Fu
   
-  *NeurIPS 2022*
-  
-  [\[paper\]](https://arxiv.org/abs/2210.06031) [\[code\]](https://github.com/microsoft/XPretrain/tree/main/LF-VILA)
+  *NeurIPS 2022* [\[paper\]](https://arxiv.org/abs/2210.06031) [\[code\]](https://github.com/microsoft/XPretrain/tree/main/LF-VILA)
 
 - **Learning Spatiotemporal Frequency-Transformer for Compressed Video Super-Resolution**
   
   Zhongwei Qiu, **Huan Yang**, Jianlong Fu, Dongmei Fu
   
-  *ECCV 2022*
-  
-  [\[paper\]](https://arxiv.org/abs/2208.03012) [\[code\]](https://github.com/researchmm/FTVSR)
+  *ECCV 2022* [\[paper\]](https://arxiv.org/abs/2208.03012) [\[code\]](https://github.com/researchmm/FTVSR)
 
 - **AI Illustrator: Translating Raw Descriptions into Images by Prompt-based Cross-Modal Generation**
   
   Yiyang Ma, **Huan Yang**, Bei Liu, Jianlong Fu, Jiaying Liu
   
-  *ACM Multimedia 2022 Oral*
-  
-  [\[paper\]](https://arxiv.org/abs/2209.03160) [\[code\]](https://github.com/researchmm/AI_Illustrator)
+  *ACM Multimedia 2022 Oral* [\[paper\]](https://arxiv.org/abs/2209.03160) [\[code\]](https://github.com/researchmm/AI_Illustrator)
 
 - **4D LUT: Learnable Context-Aware 4D Lookup Table for Image Enhancement**
     
   Chengxu Liu, **Huan Yang**, Jianlong Fu, Xueming Qian
   
-  *Preprint*
-  
-  [\[paper\]](https://arxiv.org/abs/2209.01749)
+  *Preprint* [\[paper\]](https://arxiv.org/abs/2209.01749)
 
 - **Rethinking Image and Video Restoration: An Industrial Perspective**
   
   **Huan Yang**
   
-  *CTSoc-NCT*
-  
-  [\[paper\]](https://ctsoc.ieee.org/images/CTSOC-NCT-2022-09-FA.pdf)
+  *CTSoc-NCT* [\[paper\]](https://ctsoc.ieee.org/images/CTSOC-NCT-2022-09-FA.pdf)
 
 - **Language-Guided Face Animation by Recurrent StyleGAN-based Generator**
   
