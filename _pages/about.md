@@ -156,11 +156,12 @@ My research interest includes image/video restoration, image/video enhancement a
 <span class='anchor' id='projects'></span>
 
 # Projects
-## DaVinci Project 
-The [DaVinci project](https://github.com/microsoft/DaVinci) aims to solve the pain points of existing video enhancement and restoration tools, give full play to the advantages of AI technology and lower the threshold for users to process video footage. Currently, the toolkit includes general image super-resolution and conference meeting enhancement features.
+- DaVinci Project 
 
-![ISR_Demo](files/DaVinci_ISR_Demo.png)
-<p align="center">Left: Input Low-Quality Image, Right: DaVinci Enhanced Result</p>
+  The [DaVinci project](https://github.com/microsoft/DaVinci) aims to solve the pain points of existing video enhancement and restoration tools, give full play to the advantages of AI technology and lower the threshold for users to process video footage. Currently, the toolkit includes general image super-resolution and conference meeting enhancement features.
+
+  ![ISR_Demo](files/DaVinci_ISR_Demo.png)
+  <p align="center">Left: Input Low-Quality Image, Right: DaVinci Enhanced Result</p>
 
 <span class='anchor' id='activities'></span>
 
