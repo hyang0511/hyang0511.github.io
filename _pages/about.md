@@ -10,10 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about'></span>
 
-Huan Yang received his BS and Ph.D. degrees in computer science in 2014 and 2019 respectively from Shanghai Jiao Tong University, China. He is currently a researcher at Microsoft Research Asia. His current research interest is image and video synthesis including enhancement, restoration, and generation.
-
-Huan Yang received his BS and Ph.D. degrees in computer science in 2014 and 2019 respectively from Shanghai Jiao Tong University, China. He is currently a researcher at Microsoft Research Asia. His current research interest is image and video synthesis including enhancement, restoration, and generation.
-
+# About
 Huan Yang received his BS and Ph.D. degrees in computer science in 2014 and 2019 respectively from Shanghai Jiao Tong University, China. He is currently a researcher at Microsoft Research Asia. His current research interest is image and video synthesis including enhancement, restoration, and generation.
 
 <span class='anchor' id='news'></span>
@@ -30,7 +27,6 @@ Huan Yang received his BS and Ph.D. degrees in computer science in 2014 and 2019
 ^+^: Equal Contribution, ^\*^: Corresponding Author.
 
 - Personalized Exposure Control Using Adaptive Metering and Reinforcement Learning. **Huan Yang**, Baoyuan Wang, Noranart Vesdapunt, Minyi Guo, Sing Bing Kang. *TVCG.* [\[paper\]](https://arxiv.org/abs/1803.02269)
-
 - Unsupervised Extraction of Video Highlights via Robust Recurrent Auto-Encoders. **Huan Yang**, Baoyuan Wang, Stephen Lin, David Wipf, Minyi Guo, Baining Guo. *ICCV 2015.* [\[paper\]](https://arxiv.org/abs/1510.01442)
 
 <span class='anchor' id='projects'></span>
