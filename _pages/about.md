@@ -8,13 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about'></span>
 
 Huan Yang received his BS and Ph.D. degrees in computer science in 2014 and 2019 respectively from Shanghai Jiao Tong University, China. He is currently a researcher at Microsoft Research Asia. His current research interest is image and video synthesis including enhancement, restoration, and generation.
