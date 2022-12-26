@@ -43,17 +43,14 @@ Huan Yang received his BS and Ph.D. degrees in computer science in 2014 and 2019
 <span class='anchor' id='activities'></span>
 
 # Activities
-- CVPR Reviewer: 2022, 2021
+- CVPR Reviewer: 2023, 2022
 - ICCV Reviewer: 2021
-- ECCV Reviewer: 2020
-- TIP Reviewer
-- TMM Reviewer
-- TMI Reviewer
+- ECCV Reviewer: 2022
+- ICASSP Reviewer: 2023
+- ICME Reviewer: 2023, 2022, 2021, 2020
+- Journal Reviewer: TIP, TMM, TMI, PR
 
 <span class='anchor' id='talks'></span>
 
 # Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- \[2022.12.23\] Invited Talk *Transformer Network Design in Low-Level Vision* at PRCV 2023. 
