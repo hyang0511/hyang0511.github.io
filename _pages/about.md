@@ -26,7 +26,7 @@ Huan Yang received his BS and Ph.D. degrees in computer science in 2014 and 2019
 
 <span class='anchor' id='publications'></span>
 
-# Publications 
+# Publications
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
@@ -35,10 +35,14 @@ Huan Yang received his BS and Ph.D. degrees in computer science in 2014 and 2019
 <span class='anchor' id='projects'></span>
 
 # Projects
-- DaVinci Project
-- DaVinci Project
-- DaVinci Project
-- DaVinci Project
+## DaVinci Project 
+We release the [DaVinci project](https://github.com/microsoft/DaVinci) which aims to solve the pain points of existing video enhancement and restoration tools, give full play to the advantages of AI technology and lower the threshold for users to process video footage. Currently, the toolkit includes general image super-resolution and conference meeting enhancement features.
+
+![ISR_Demo](files/DaVinci_ISR_Demo.png)
+<p align="center">Left: Input Low-Quality Image, Right: DaVinci Enhanced Result</p>
+
+https://user-images.githubusercontent.com/53380424/180170775-797e22f6-0ff9-4002-b723-7c116a84d898.mp4
+<p align="center">Left: Input Low-Quality Video, Right: DaVinci Enhanced Result</p>
 
 <span class='anchor' id='activities'></span>
 
