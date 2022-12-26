@@ -24,25 +24,25 @@ Huan Yang received his BS and Ph.D. degrees in computer science in 2014 and 2019
 <span class='anchor' id='publications'></span>
 
 # Publications
-- MM-Diffusion: Learning Multi-Modal Diffusion Models for Joint Audio and Video Generation
+- **MM-Diffusion: Learning Multi-Modal Diffusion Models for Joint Audio and Video Generation**
 
   Ludan Ruan, Yiyang Ma, **Huan Yang**, Huiguo He, Bei Liu, Jianlong Fu, Nicholas Jing Yuan, Qin Jin, Baining Guo
   
   *Preprint* [\[paper\]](https://arxiv.org/abs/2212.09478) [\[code\]](https://arxiv.org/abs/2212.09478)
 
-- Fine-Grained Image Style Transfer with Visual Transformers
+- **Fine-Grained Image Style Transfer with Visual Transformers**
 
   Jianbo Wang, **Huan Yang**, Jianlong Fu, Toshihiko Yamasaki, Baining Guo
   
   *ACCV 2022* [\[paper\]](https://arxiv.org/abs/2210.05176)
 
-- Long-Form Video-Language Pre-Training with Multimodal Temporal Contrastive Learning
+- **Long-Form Video-Language Pre-Training with Multimodal Temporal Contrastive Learning**
   
   Yuchong Sun, Hongwei Xue, Ruihua Song, Bei Liu, **Huan Yang**, Jianlong Fu
   
   *NeurIPS 2022* [\[paper\]](https://arxiv.org/abs/2210.06031) [\[code\]](https://github.com/microsoft/XPretrain/tree/main/LF-VILA)
 
-- Learning Spatiotemporal Frequency-Transformer for Compressed Video Super-Resolution
+- **Learning Spatiotemporal Frequency-Transformer for Compressed Video Super-Resolution**
   
   Zhongwei Qiu, **Huan Yang**, Jianlong Fu, Dongmei Fu
   
