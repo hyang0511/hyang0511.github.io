@@ -9,5 +9,11 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  - title: "Projects"
+    url: "/#-projects"
+
+  - title: "Activities"
+    url: "/#-activities"
+
+  - title: "Talks"
+    url: "/#-talks"
