@@ -24,8 +24,18 @@ Huan Yang received his BS and Ph.D. degrees in computer science in 2014 and 2019
 <span class='anchor' id='publications'></span>
 
 # Publications
-- MM-Diffusion: Learning Multi-Modal Diffusion Models for Joint Audio and Video Generation. Ludan Ruan, Yiyang Ma, **Huan Yang**, Huiguo He, Bei Liu, Jianlong Fu, Nicholas Jing Yuan, Qin Jin, Baining Guo. *Preprint.* [\[paper\]](https://arxiv.org/abs/2212.09478) [\[code\]](https://arxiv.org/abs/2212.09478)
-- Fine-Grained Image Style Transfer with Visual Transformers. Jianbo Wang, **Huan Yang**, Jianlong Fu, Toshihiko Yamasaki, Baining Guo. *ACCV 2022.* [\[paper\]](https://arxiv.org/abs/2210.05176)
+- MM-Diffusion: Learning Multi-Modal Diffusion Models for Joint Audio and Video Generation.
+
+  Ludan Ruan, Yiyang Ma, **Huan Yang**, Huiguo He, Bei Liu, Jianlong Fu, Nicholas Jing Yuan, Qin Jin, Baining Guo.
+  
+  *Preprint.* [\[paper\]](https://arxiv.org/abs/2212.09478) [\[code\]](https://arxiv.org/abs/2212.09478)
+
+- Fine-Grained Image Style Transfer with Visual Transformers.
+
+  Jianbo Wang, **Huan Yang**, Jianlong Fu, Toshihiko Yamasaki, Baining Guo.
+  
+  *ACCV 2022.* [\[paper\]](https://arxiv.org/abs/2210.05176)
+  
 - Long-Form Video-Language Pre-Training with Multimodal Temporal Contrastive Learning. Yuchong Sun, Hongwei Xue, Ruihua Song, Bei Liu, **Huan Yang**, Jianlong Fu. *NeurIPS 2022.* [\[paper\]](https://arxiv.org/abs/2210.06031) [\[code\]](https://github.com/microsoft/XPretrain/tree/main/LF-VILA)
 - Learning Spatiotemporal Frequency-Transformer for Compressed Video Super-Resolution. Zhongwei Qiu, **Huan Yang**, Jianlong Fu, Dongmei Fu. *ECCV 2022.* [\[paper\]](https://arxiv.org/abs/2208.03012) [\[code\]](https://github.com/researchmm/FTVSR)
 - AI Illustrator: Translating Raw Descriptions into Images by Prompt-based Cross-Modal Generation. Yiyang Ma, **Huan Yang**, Bei Liu, Jianlong Fu, Jiaying Liu. *ACM Multimedia 2022 Oral.* [[\paper]](https://arxiv.org/abs/2209.03160) [\[code\]](https://github.com/researchmm/AI_Illustrator)
