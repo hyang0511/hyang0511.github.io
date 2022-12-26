@@ -29,4 +29,4 @@ Huan Yang received his BS and Ph.D. degrees in computer science in 2014 and 2019
 - TMI Reviewer
 
 # Talks
-- *2022.12.23*, PRCV 2023 Invited Talks, Transformer Design in Low-Level Vision. 
+- [2022.12.23]: PRCV 2023 Invited Talks, Transformer Design in Low-Level Vision. 
