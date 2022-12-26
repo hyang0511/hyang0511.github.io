@@ -11,8 +11,8 @@ main:
   - title: "Projects"
     url: "/#projects"
 
-  - title: "Talks"
-    url: "/#talks"
-
   - title: "Activities"
     url: "/#activities"
+
+  - title: "Talks"
+    url: "/#talks"

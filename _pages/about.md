@@ -162,11 +162,6 @@ The [DaVinci project](https://github.com/microsoft/DaVinci) aims to solve the pa
 ![ISR_Demo](files/DaVinci_ISR_Demo.png)
 <p align="center">Left: Input Low-Quality Image, Right: DaVinci Enhanced Result</p>
 
-<span class='anchor' id='talks'></span>
-
-# Talks
-- \[2022.12.23\] Transformer Network Design in Low-Level Vision. *Invited Talk at PRCV 2023.* [\[slides\]](files\prcv2023_invited_talk.pdf)
-
 <span class='anchor' id='activities'></span>
 
 # Activities
@@ -176,3 +171,8 @@ The [DaVinci project](https://github.com/microsoft/DaVinci) aims to solve the pa
 - ICASSP Reviewer: 2023
 - ICME Reviewer: 2023, 2022, 2021, 2020
 - Journal Reviewer: TIP, TMM, TMI, PR
+
+<span class='anchor' id='talks'></span>
+
+# Talks
+- \[2022.12.23\] Transformer Network Design in Low-Level Vision. *Invited Talk at PRCV 2023.* [\[slides\]](files\prcv2023_invited_talk.pdf)
