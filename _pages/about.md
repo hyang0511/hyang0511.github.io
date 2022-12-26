@@ -26,6 +26,9 @@ My research interest includes image/video restoration, image/video enhancement a
 - \[2022.06.30\] One paper is accepted by ACM Multimedia 2022!
 - \[2022.03.02\] Two papers are accepted by CVPR 2022!
 - \[2021.09.29\] One paper is accepted by NeurIPS 2021!
+- \[2021.07.23\] Two papers are accepted by ICCV 2021!
+- \[2021.07.04\] One paper is accepted by ACM Multimedia 2021!
+- \[2020.02.27\] One paper is accepted by CVPR 2020!
 
 <span class='anchor' id='publications'></span>
 
