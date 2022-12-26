@@ -41,9 +41,6 @@ We release the [DaVinci project](https://github.com/microsoft/DaVinci) which aim
 ![ISR_Demo](files/DaVinci_ISR_Demo.png)
 <p align="center">Left: Input Low-Quality Image, Right: DaVinci Enhanced Result</p>
 
-https://user-images.githubusercontent.com/53380424/180170775-797e22f6-0ff9-4002-b723-7c116a84d898.mp4
-<p align="center">Left: Input Low-Quality Video, Right: DaVinci Enhanced Result</p>
-
 <span class='anchor' id='activities'></span>
 
 # Activities
