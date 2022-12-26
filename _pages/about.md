@@ -11,7 +11,11 @@ redirect_from:
 <span class='anchor' id='about'></span>
 
 # About
-Huan Yang received his BS and Ph.D. degrees in computer science in 2014 and 2019 respectively from Shanghai Jiao Tong University, China. He is currently a researcher at Microsoft Research Asia. His current research interest is image and video synthesis including enhancement, restoration, and generation.
+I am a senior researcher in the multi-modal computing group at Microsoft Research Asia. We are hiring interns and researchers to work on low-level vision (image/video restoration and enhancement) and content creation (diffusion-based generation and image/video manipulation). If interested, feel free to email me with your CV.
+
+I received my Ph.D. degree in computer science in 2019 from Shanghai Jiao Tong University, under the supervision of Dr. Baining Guo and Prof. Minyi Guo. During my Ph.D., I worked closely with Dr. Baoyuan Wang at MSRA. Before that, I received my B.S. in computer science in 2014 from Shanghai Jiao Tong University, under the supervision of Prof. Yong Yu and Prof. Minyi Guo.
+
+My research interest includes image/video restoration, image/video enhancement and GAN/diffusion-based content creation. I have published more than 20 papers at the top international CV/AI conferences such as CVPR, ICCV, ECCV, NeurIPS.
 
 <span class='anchor' id='news'></span>
 
