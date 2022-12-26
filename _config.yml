@@ -25,12 +25,12 @@ author:
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Microsoft Research Asia"
   location         : "Beijing, China"
-  employer         : ""
+  employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=O8NTlooAAAAJ&hl=en"
   email            : "huayan@microsoft.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://www.microsoft.com/en-us/research/people/huayan/"
   bitbucket        :
   codepen          :
   dribbble         :
