@@ -16,10 +16,12 @@ Huan Yang received his BS and Ph.D. degrees in computer science in 2014 and 2019
 <span class='anchor' id='news'></span>
 
 # News
-- *2022.02*: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- \[2022.12.23\] Invited Talk at PRCV 2023.
+- \[2022.09.17\] One paper is accepted by ACCV 2022!
+- \[2022.09.15\] One paper is accepted by NeurIPS 2022!
+- \[2022.06.30\] One paper is accepted by ACM Multimedia 2022!
+- \[2022.03.02\] Two papers are accepted by CVPR 2022!
+- \[2021.09.29\] One paper is accepted by NeurIPS 2021!
 
 <span class='anchor' id='publications'></span>
 
