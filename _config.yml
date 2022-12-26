@@ -9,6 +9,10 @@
 title                    : "Huan Yang"
 description              : "I am a senior researcher in Multimedia Computing Group in Microsoft Research Asia."
 repository               : "hyang0511/hyang0511.github.io"
+google_scholar_stats_use_cdn : true
+
+# google analytics
+google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
