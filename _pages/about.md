@@ -53,4 +53,4 @@ Huan Yang received his BS and Ph.D. degrees in computer science in 2014 and 2019
 <span class='anchor' id='talks'></span>
 
 # Talks
-- \[2022.12.23\] Invited Talk *Transformer Network Design in Low-Level Vision* at PRCV 2023. 
+- \[2022.12.23\] Invited Talk at PRCV 2023. Transformer Network Design in Low-Level Vision. [\[slides\]](files\prcv2023_invited_talk.pdf)
