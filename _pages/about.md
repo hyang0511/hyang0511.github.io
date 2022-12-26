@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<span class='anchor' id='about-me'></span>
+
 Huan Yang received his BS and Ph.D. degrees in computer science in 2014 and 2019 respectively from Shanghai Jiao Tong University, China. He is currently a researcher at Microsoft Research Asia. His current research interest is image and video synthesis including enhancement, restoration, and generation.
 
 # News
