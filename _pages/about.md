@@ -27,10 +27,11 @@ Huan Yang received his BS and Ph.D. degrees in computer science in 2014 and 2019
 <span class='anchor' id='publications'></span>
 
 # Publications
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+^+^: Equal Contribution, ^\*^: Corresponding Author.
+
+- Personalized Exposure Control Using Adaptive Metering and Reinforcement Learning. **Huan Yang**, Baoyuan Wang, Noranart Vesdapunt, Minyi Guo, Sing Bing Kang. *TVCG.* [\[paper\]](https://arxiv.org/abs/1803.02269)
+
+- Unsupervised Extraction of Video Highlights via Robust Recurrent Auto-Encoders. **Huan Yang**, Baoyuan Wang, Stephen Lin, David Wipf, Minyi Guo, Baining Guo. *ICCV 2015.* [\[paper\]](https://arxiv.org/abs/1510.01442)
 
 <span class='anchor' id='projects'></span>
 
