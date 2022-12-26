@@ -24,39 +24,11 @@ author:
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Senior Researcher<br>Microsoft Research Asia"
   location         : "Beijing, China"
-  employer         :
-  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=O8NTlooAAAAJ&hl=en"
   email            : "huayan@microsoft.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              : "https://www.microsoft.com/en-us/research/people/huayan/"
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           : "hyang0511"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
   linkedin         : "欢-杨-665a6572"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
-
 
 # Reading Files
 include:
