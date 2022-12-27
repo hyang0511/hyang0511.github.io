@@ -37,13 +37,13 @@ My research interest includes image/video restoration, image/video enhancement a
 
   Ludan Ruan, Yiyang Ma, **Huan Yang**, Huiguo He, Bei Liu, Jianlong Fu, Nicholas Jing Yuan, Qin Jin, Baining Guo
   
-  *Preprint* [\[paper\]](https://arxiv.org/abs/2212.09478) [\[code\]](https://arxiv.org/abs/2212.09478)
+  *Preprint* [\[paper\]](https://arxiv.org/abs/2212.09478) [\[code\]](https://github.com/researchmm/MM-Diffusion)
 
 - **Fine-Grained Image Style Transfer with Visual Transformers**
 
   Jianbo Wang, **Huan Yang**, Jianlong Fu, Toshihiko Yamasaki, Baining Guo
   
-  *ACCV 2022* [\[paper\]](https://arxiv.org/abs/2210.05176)
+  *ACCV 2022* [\[paper\]](https://arxiv.org/abs/2210.05176) [\[code\]](https://github.com/researchmm/STTR)
 
 - **Long-Form Video-Language Pre-Training with Multimodal Temporal Contrastive Learning**
   
