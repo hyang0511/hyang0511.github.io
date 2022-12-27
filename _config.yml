@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Huan Yang (杨欢)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Senior Researcher<br>Multi-Modal Computing Group<br>Microsoft Research Asia"
+  bio              : "Senior Researcher<br>Microsoft Research Asia"
   location         : "Beijing, China"
   googlescholar    : "https://scholar.google.com/citations?user=O8NTlooAAAAJ&hl=en"
   email            : "huayan@microsoft.com"
