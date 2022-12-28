@@ -33,125 +33,125 @@ My research interest includes image/video restoration, image/video enhancement a
 <span class='anchor' id='publications'></span>
 
 # Publications
-- **MM-Diffusion: Learning Multi-Modal Diffusion Models for Joint Audio and Video Generation**
+- [MM-Diffusion: Learning Multi-Modal Diffusion Models for Joint Audio and Video Generation](https://arxiv.org/abs/2212.09478)
 
   Ludan Ruan, Yiyang Ma, **Huan Yang**, Huiguo He, Bei Liu, Jianlong Fu, Nicholas Jing Yuan, Qin Jin, Baining Guo
   
-  *Preprint* [\[paper\]](https://arxiv.org/abs/2212.09478) [\[code\]](https://github.com/researchmm/MM-Diffusion)
+  *Preprint* [\[code\]](https://github.com/researchmm/MM-Diffusion)
 
-- **Fine-Grained Image Style Transfer with Visual Transformers**
+- [Fine-Grained Image Style Transfer with Visual Transformers](https://arxiv.org/abs/2210.05176)
 
   Jianbo Wang, **Huan Yang**, Jianlong Fu, Toshihiko Yamasaki, Baining Guo
   
-  *ACCV 2022* [\[paper\]](https://arxiv.org/abs/2210.05176) [\[code\]](https://github.com/researchmm/STTR)
+  *ACCV 2022* [\[code\]](https://github.com/researchmm/STTR)
 
-- **Long-Form Video-Language Pre-Training with Multimodal Temporal Contrastive Learning**
+- [Long-Form Video-Language Pre-Training with Multimodal Temporal Contrastive Learning](https://arxiv.org/abs/2210.06031)
   
   Yuchong Sun, Hongwei Xue, Ruihua Song, Bei Liu, **Huan Yang**, Jianlong Fu
   
-  *NeurIPS 2022* [\[paper\]](https://arxiv.org/abs/2210.06031) [\[code\]](https://github.com/microsoft/XPretrain/tree/main/LF-VILA)
+  *NeurIPS 2022* [\[code\]](https://github.com/microsoft/XPretrain/tree/main/LF-VILA)
 
-- **Learning Spatiotemporal Frequency-Transformer for Compressed Video Super-Resolution**
+- [Learning Spatiotemporal Frequency-Transformer for Compressed Video Super-Resolution](https://arxiv.org/abs/2208.03012)
   
   Zhongwei Qiu, **Huan Yang**, Jianlong Fu, Dongmei Fu
   
-  *ECCV 2022* [\[paper\]](https://arxiv.org/abs/2208.03012) [\[code\]](https://github.com/researchmm/FTVSR)
+  *ECCV 2022* [\[code\]](https://github.com/researchmm/FTVSR)
 
-- **AI Illustrator: Translating Raw Descriptions into Images by Prompt-based Cross-Modal Generation**
+- [AI Illustrator: Translating Raw Descriptions into Images by Prompt-based Cross-Modal Generation](https://arxiv.org/abs/2209.03160)
   
   Yiyang Ma, **Huan Yang**, Bei Liu, Jianlong Fu, Jiaying Liu
   
-  *ACM Multimedia 2022 Oral* [\[paper\]](https://arxiv.org/abs/2209.03160) [\[code\]](https://github.com/researchmm/AI_Illustrator)
+  *ACM Multimedia 2022 Oral* [\[code\]](https://github.com/researchmm/AI_Illustrator)
 
-- **4D LUT: Learnable Context-Aware 4D Lookup Table for Image Enhancement**
+- [4D LUT: Learnable Context-Aware 4D Lookup Table for Image Enhancement](https://arxiv.org/abs/2209.01749)
     
   Chengxu Liu, **Huan Yang**, Jianlong Fu, Xueming Qian
   
-  *Preprint* [\[paper\]](https://arxiv.org/abs/2209.01749)
+  *Preprint*
 
-- **Rethinking Image and Video Restoration: An Industrial Perspective**
+- [Rethinking Image and Video Restoration: An Industrial Perspective](https://ctsoc.ieee.org/images/CTSOC-NCT-2022-09-FA.pdf)
   
   **Huan Yang**
   
-  *CTSoc-NCT* [\[paper\]](https://ctsoc.ieee.org/images/CTSOC-NCT-2022-09-FA.pdf)
+  *CTSoc-NCT*
 
-- **Language-Guided Face Animation by Recurrent StyleGAN-based Generator**
+- [Language-Guided Face Animation by Recurrent StyleGAN-based Generator](https://arxiv.org/abs/2208.05617)
   
-  Tiankai Hang, **Huan Yang**, Bei Liu, Jianlong Fu, Xin Geng, Baining Guo.
+  Tiankai Hang, **Huan Yang**, Bei Liu, Jianlong Fu, Xin Geng, Baining Guo
 
-  *Preprint* [\[paper\]](https://arxiv.org/abs/2208.05617)
+  *Preprint*
 
-- **Online Video Super-Resolution with Convolutional Kernel Bypass Graft**
+- [Online Video Super-Resolution with Convolutional Kernel Bypass Graft](https://arxiv.org/abs/2208.02470)
   
   Jun Xiao, Xinyang Jiang, Ningxin Zheng, **Huan Yang**, Yifan Yang, Yuqing Yang, Dongsheng Li, Kin-Man Lam
   
-  *Preprint* [\[paper\]](https://arxiv.org/abs/2208.02470)
+  *Preprint*
 
-- **Degradation-Guided Meta-Restoration Network for Blind Super-Resolution**
+- [Degradation-Guided Meta-Restoration Network for Blind Super-Resolution](https://arxiv.org/abs/2207.00943)
   
   Fuzhi Yang, **Huan Yang**, Yanhong Zeng, Jianlong Fu, Hongtao Lu
   
-  *Preprint* [\[paper\]](https://arxiv.org/abs/2207.00943)
+  *Preprint*
 
-- **Learning Trajectory-Aware Transformer for Video Frame Interpolation**
+- [Learning Trajectory-Aware Transformer for Video Frame Interpolation](https://arxiv.org/abs/2207.09048)
   
   Chengxu Liu, **Huan Yang**, Jianlong Fu, Xueming Qian
   
-  *Preprint* [\[paper\]](https://arxiv.org/abs/2207.09048)
+  *Preprint*
 
-- **Advancing High-Resolution Video-Language Representation with Large-Scale Video Transcriptions**
+- [Advancing High-Resolution Video-Language Representation with Large-Scale Video Transcriptions](https://arxiv.org/abs/2111.10337)
   
   Hongwei Xue, Tiankai Hang, Yanhong Zeng, Yuchong Sun, Bei Liu, **Huan Yang**, Jianlong Fu, Baining Guo
   
-  *CVPR 2022* [\[paper\]](https://arxiv.org/abs/2111.10337) [\[code\]](https://github.com/microsoft/XPretrain/tree/main/hd-vila)
+  *CVPR 2022* [\[code\]](https://github.com/microsoft/XPretrain/tree/main/hd-vila)
 
-- **Learning Trajectory-Aware Transformer for Video Super-Resolution**
+- [Learning Trajectory-Aware Transformer for Video Super-Resolution](https://arxiv.org/abs/2204.04216)
   
   Chengxu Liu, **Huan Yang**, Jianlong Fu, Xueming Qian
   
-  *CVPR 2022 Oral* [\[paper\]](https://arxiv.org/abs/2204.04216) [\[code\]](https://github.com/researchmm/TTVSR)
+  *CVPR 2022 Oral* [\[code\]](https://github.com/researchmm/TTVSR)
 
-- **Improving Visual Quality of Image Synthesis by A Token-based Generator with Transformers**
+- [Improving Visual Quality of Image Synthesis by A Token-based Generator with Transformers](https://arxiv.org/abs/2111.03481)
   
   Yanhong Zeng, **Huan Yang**, Hongyang Chao, Jianbo Wang, Jianlong Fu
   
-  *NeurIPS 2021* [\[paper\]](https://arxiv.org/abs/2111.03481)
+  *NeurIPS 2021*
 
-- **Learning Fine-Grained Motion Embedding for Landscape Animation**
+- [Learning Fine-Grained Motion Embedding for Landscape Animation](https://arxiv.org/abs/2109.02216)
   
   Hongwei Xue, Bei Liu, **Huan Yang**, Jianlong Fu, Houqiang Li, Jiebo Luo
 
-  *ACM Multimedia 2021 Oral* [\[paper\]](https://arxiv.org/abs/2109.02216)
+  *ACM Multimedia 2021 Oral*
 
-- **Domain-Aware Universal Style Transfer**
+- [Domain-Aware Universal Style Transfer](https://arxiv.org/abs/2108.04441)
   
   Kibeom Hong, Seogkyu Jeon, **Huan Yang**, Jianlong Fu, Hyeran Byun
   
-  *ICCV 2021* [\[paper\]](https://arxiv.org/abs/2108.04441) [\[code\]](https://github.com/Kibeom-Hong/Domain-Aware-Style-Transfer)
+  *ICCV 2021* [\[code\]](https://github.com/Kibeom-Hong/Domain-Aware-Style-Transfer)
 
-- **Learning Conditional Knowledge Distillation for Degraded-Reference Image Quality Assessment**
+- [Learning Conditional Knowledge Distillation for Degraded-Reference Image Quality Assessment](https://arxiv.org/abs/2108.07948)
   
   Heliang Zheng, **Huan Yang**, Jianlong Fu, Zheng-Jun Zha, Jiebo Luo
   
-  *ICCV 2021* [\[paper\]](https://arxiv.org/abs/2108.07948) [\[code\]](https://github.com/researchmm/CKDN)
+  *ICCV 2021* [\[code\]](https://github.com/researchmm/CKDN)
 
-- **Learning Texture Transformer Network for Image Super-Resolution**
+- [Learning Texture Transformer Network for Image Super-Resolution](https://arxiv.org/abs/2006.04139)
   
   Fuzhi Yang, **Huan Yang**, Jianlong Fu, Hongtao Lu, Baining Guo
   
-  *CVPR 2020* [\[paper\]](https://arxiv.org/abs/2006.04139) [\[code\]](https://github.com/researchmm/TTSR)
+  *CVPR 2020* [\[code\]](https://github.com/researchmm/TTSR)
 
-- **Personalized Exposure Control Using Adaptive Metering and Reinforcement Learning**
+- [Personalized Exposure Control Using Adaptive Metering and Reinforcement Learning](https://arxiv.org/abs/1803.02269)
   
   **Huan Yang**, Baoyuan Wang, Noranart Vesdapunt, Minyi Guo, Sing Bing Kang
   
-  *TVCG* [\[paper\]](https://arxiv.org/abs/1803.02269)
+  *TVCG*
 
-- **Unsupervised Extraction of Video Highlights via Robust Recurrent Auto-Encoders**
+- [Unsupervised Extraction of Video Highlights via Robust Recurrent Auto-Encoders](https://arxiv.org/abs/1510.01442)
   
   **Huan Yang**, Baoyuan Wang, Stephen Lin, David Wipf, Minyi Guo, Baining Guo
 
-  *ICCV 2015* [\[paper\]](https://arxiv.org/abs/1510.01442)
+  *ICCV 2015*
 
 <span class='anchor' id='projects'></span>
 
