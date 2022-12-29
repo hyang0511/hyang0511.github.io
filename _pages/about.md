@@ -170,7 +170,7 @@ My research interest includes image/video restoration, image/video enhancement a
   This is a simple toolkit to view and crop image patches for image/video restoration tasks. In image/video restoration, the authors usually need to show the full image with its zoom-in regions for better visualization. Using this toolkit, the authors can easily crop multiple zoom-in regions from multiple results. Both merged image and each crop patchs will be saved.
 
   ![ISR_Demo](files/Restoration_Image_Viewer.png)
-  <p align="center">The GUI for the Restoration Image Viewer</p>  
+  <p align="center">The GUI for Restoration Image Viewer</p>  
 
 # Activities
 - CVPR Reviewer: 2023, 2022
