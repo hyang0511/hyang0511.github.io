@@ -160,17 +160,17 @@ My research interest includes image/video restoration, image/video enhancement a
 
   The DaVinci project aims to solve the pain points of existing video enhancement and restoration tools, give full play to the advantages of AI technology and lower the threshold for users to process video footage. Currently, the toolkit includes general image super-resolution and conference meeting enhancement features.
 
-  ![ISR_Demo](files/DaVinci_ISR_Demo.png)
+  ![DaVinci_ISR_Demo](files/DaVinci_ISR_Demo.png)
   <p align="center">Left: Input Low-Quality Image, Right: DaVinci Enhanced Result</p>
 
 <span class='anchor' id='activities'></span>
 
-- Restoration Image Viewer [\[project\]](https://github.com/hyang0511/Restoration-ImageViewer)
+- SR Viewer [\[project\]](https://github.com/hyang0511/SR_Viewer)
 
-  This is a simple toolkit to view and crop image patches for image/video restoration tasks. In image/video restoration, the authors usually need to show the full image with its zoom-in regions for better visualization. Using this toolkit, the authors can easily crop multiple zoom-in regions from multiple results. Both merged image and each crop patchs will be saved.
+  This is a simple toolkit to view and crop image patches for image/video super-resolution tasks. In image/video super-resolution, the authors usually need to show the full image with its zoom-in regions for better visualization. Using this toolkit, the authors can easily crop multiple zoom-in regions from multiple results. Both merged image and each crop patchs will be saved.
 
-  ![ISR_Demo](files/Restoration_Image_Viewer.png)
-  <p align="center">The GUI for Restoration Image Viewer</p>  
+  ![SR_Viewer](files/SR_Viewer.png)
+  <p align="center">The GUI for SR Viewer</p>  
 
 # Activities
 - CVPR Reviewer: 2023, 2022
