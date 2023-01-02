@@ -33,6 +33,12 @@ My research interest includes image/video restoration, image/video enhancement a
 <span class='anchor' id='publications'></span>
 
 # Publications
+- **Learning Spatiotemporal Frequency-Transformer for Low-Quality Video Super-Resolution**
+  
+  Zhongwei Qiu, **Huan Yang**, Jianlong Fu, Daochang Liu, Chang Xu, Dongmei Fu
+
+  *Preprint* [\[paper\]](https://arxiv.org/abs/2212.14046)
+
 - **MM-Diffusion: Learning Multi-Modal Diffusion Models for Joint Audio and Video Generation**
 
   Ludan Ruan, Yiyang Ma, **Huan Yang**, Huiguo He, Bei Liu, Jianlong Fu, Nicholas Jing Yuan, Qin Jin, Baining Guo
