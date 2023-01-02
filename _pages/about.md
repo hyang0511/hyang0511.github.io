@@ -37,7 +37,7 @@ My research interest includes image/video restoration, image/video enhancement a
   
   Zhongwei Qiu, **Huan Yang**, Jianlong Fu, Daochang Liu, Chang Xu, Dongmei Fu
 
-  *Preprint* [\[paper\]](https://arxiv.org/abs/2212.14046)
+  *Preprint* [\[paper\]](https://arxiv.org/abs/2212.14046) [\[code\]](https://github.com/researchmm/FTVSR)
 
 - **MM-Diffusion: Learning Multi-Modal Diffusion Models for Joint Audio and Video Generation**
 
