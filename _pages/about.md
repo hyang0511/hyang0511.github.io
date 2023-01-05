@@ -21,16 +21,16 @@ My research interest includes image/video restoration, image/video enhancement a
 
 # News
 - \[2022.12.23\] Invited Talk at PRCV 2023.
-- \[2022.09.17\] One paper is accepted by ACCV 2022!
-- \[2022.09.15\] One paper is accepted by NeurIPS 2022!
-- \[2022.06.30\] One paper is accepted by ACM Multimedia 2022!
+- \[2022.09.17\] One paper is accepted by ACCV 2022.
+- \[2022.09.15\] One paper is accepted by NeurIPS 2022.
+- \[2022.06.30\] One paper is accepted by ACM Multimedia 2022.
 - \[2022.04.23\] Invited Talk at MSRA CVPR 2022 Paper Sharing.
-- \[2022.03.02\] Two papers are accepted by CVPR 2022!
+- \[2022.03.02\] Two papers are accepted by CVPR 2022.
 - \[2021.10.13\] Invited Talk at MSRA ICCV 2021 Paper Sharing.
-- \[2021.09.29\] One paper is accepted by NeurIPS 2021!
-- \[2021.07.23\] Two papers are accepted by ICCV 2021!
-- \[2021.07.04\] One paper is accepted by ACM Multimedia 2021!
-- \[2020.02.27\] One paper is accepted by CVPR 2020!
+- \[2021.09.29\] One paper is accepted by NeurIPS 2021.
+- \[2021.07.23\] Two papers are accepted by ICCV 2021.
+- \[2021.07.04\] One paper is accepted by ACM Multimedia 2021.
+- \[2020.02.27\] One paper is accepted by CVPR 2020.
 
 <span class='anchor' id='publications'></span>
 
