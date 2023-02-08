@@ -20,7 +20,7 @@ My research interest includes image/video restoration, image/video enhancement a
 <span class='anchor' id='news'></span>
 
 # News
-- \[2022.12.23\] Invited Talk at PRCV 2023.
+- \[2022.12.23\] Invited Talk at PRCV 2022.
 - \[2022.09.17\] One paper is accepted by ACCV 2022.
 - \[2022.09.15\] One paper is accepted by NeurIPS 2022.
 - \[2022.06.30\] One paper is accepted by ACM Multimedia 2022.
