@@ -20,6 +20,7 @@ My research interest includes image/video restoration, image/video enhancement a
 <span class='anchor' id='news'></span>
 
 # News
+- \[2023.02.10\] One paper is accepted by TMM.
 - \[2022.12.23\] Invited Talk at PRCV 2022.
 - \[2022.09.17\] One paper is accepted by ACCV 2022.
 - \[2022.09.15\] One paper is accepted by NeurIPS 2022.
@@ -93,7 +94,7 @@ My research interest includes image/video restoration, image/video enhancement a
   
   Jun Xiao, Xinyang Jiang, Ningxin Zheng, **Huan Yang**, Yifan Yang, Yuqing Yang, Dongsheng Li, Kin-Man Lam
   
-  *Preprint* [\[paper\]](https://arxiv.org/abs/2208.02470)
+  *TMM* [\[paper\]](https://arxiv.org/abs/2208.02470)
 
 - **Degradation-Guided Meta-Restoration Network for Blind Super-Resolution**
   
