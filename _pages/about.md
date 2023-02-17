@@ -20,7 +20,7 @@ My research interest includes image/video restoration, image/video enhancement a
 <span class='anchor' id='news'></span>
 
 # News
-- \[2023.02.10\] One paper is accepted by TMM.
+- \[2023.02.17\] Two papers are accepted by TMM.
 - \[2022.12.23\] Invited Talk at PRCV 2022.
 - \[2022.09.17\] One paper is accepted by ACCV 2022.
 - \[2022.09.15\] One paper is accepted by NeurIPS 2022.
@@ -88,7 +88,7 @@ My research interest includes image/video restoration, image/video enhancement a
   
   Tiankai Hang, **Huan Yang**, Bei Liu, Jianlong Fu, Xin Geng, Baining Guo.
 
-  *Preprint* [\[paper\]](https://arxiv.org/abs/2208.05617)
+  *TMM* [\[paper\]](https://arxiv.org/abs/2208.05617)
 
 - **Online Video Super-Resolution with Convolutional Kernel Bypass Graft**
   
