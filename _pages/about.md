@@ -46,7 +46,7 @@ My research interest includes image/video restoration, image/video enhancement a
 
   Ludan Ruan, Yiyang Ma, **Huan Yang**, Huiguo He, Bei Liu, Jianlong Fu, Nicholas Jing Yuan, Qin Jin, Baining Guo
   
-  *Preprint* [\[paper\]](https://arxiv.org/abs/2212.09478) [\[code\]](https://github.com/researchmm/MM-Diffusion)
+  *CVPR 2023* [\[paper\]](https://arxiv.org/abs/2212.09478) [\[code\]](https://github.com/researchmm/MM-Diffusion)
 
 - **Fine-Grained Image Style Transfer with Visual Transformers**
 
