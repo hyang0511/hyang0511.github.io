@@ -37,6 +37,12 @@ My research interest includes image/video restoration, image/video enhancement a
 <span class='anchor' id='publications'></span>
 
 # Publications
+- **Online Video Streaming Super-Resolution with Adaptive Look-Up Table Fusion**
+  
+  Guanghao Yin, Xinyang Jiang, Shan Jiang, Zhenhua Han, Ningxin Zheng, **Huan Yang**, Donglin Bai, Haisheng Tan, Shouqian Sun, Yuqing Yang, Dongsheng Li, Lili Qiu
+
+  *Preprint* [\[paper\]](https://arxiv.org/abs/2303.00334)
+
 - **Learning Spatiotemporal Frequency-Transformer for Low-Quality Video Super-Resolution**
   
   Zhongwei Qiu, **Huan Yang**, Jianlong Fu, Daochang Liu, Chang Xu, Dongmei Fu
