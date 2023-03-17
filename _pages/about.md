@@ -181,10 +181,10 @@ My research interest includes image/video restoration, image/video enhancement a
 # Projects
 - Edge Video Super-Resolution Project [\[project\]](https://blogs.windows.com/msedgedev/2023/03/08/video-super-resolution-in-microsoft-edge/)
   
-  We release our new feautre of video super-resolution in [Edge Canary](https://www.microsoftedgeinsider.com/zh-cn/download/canary). Video super resolution uses machine learning to enhance the quality of video viewed in Microsoft Edge by using graphics card agnostic algorithms to remove blocky compression artifacts and upscale the video resolution, so you can enjoy crisp and clear videos on YouTube and other video streaming platforms without sacrificing bandwidth. More details could be found from the [blog post](https://blogs.windows.com/msedgedev/2023/03/08/video-super-resolution-in-microsoft-edge/).
+  We release our new feautre of video super-resolution in [Edge Canary](https://www.microsoftedgeinsider.com/zh-cn/download/canary). Video super resolution uses machine learning to enhance the quality of video viewed in Microsoft Edge by using graphics card agnostic algorithms to remove blocky compression artifacts and upscale the video resolution, so you can enjoy crisp and clear videos on YouTube and other video streaming platforms without sacrificing bandwidth.
 
-  ![EdgeVSR_Demo](files/EdgeVSR_Demo.jpg)
-  <p align="center">Left: VSR OFF, Right: VSR O</p>
+  ![EdgeVSR_Demo](files/EdgeVSR_Demo.png)
+  <p align="center">Left: VSR OFF, Right: VSR ON</p>
 
 - DaVinci Project [\[project\]](https://github.com/microsoft/DaVinci)
 
