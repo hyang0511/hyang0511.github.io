@@ -20,6 +20,7 @@ My research interest includes image/video restoration, image/video enhancement a
 <span class='anchor' id='news'></span>
 
 # News
+- \[2023.03.08\] Video Super-Resolution feature is online in Edge Canary.
 - \[2023.02.28\] One paper is accepted by CVPR 2023.
 - \[2023.02.17\] Two papers are accepted by TMM.
 - \[2022.12.23\] Invited Talk at PRCV 2022.
@@ -37,6 +38,12 @@ My research interest includes image/video restoration, image/video enhancement a
 <span class='anchor' id='publications'></span>
 
 # Publications
+- **Unified Multi-Modal Latent Diffusion for Joint Subject and Text Conditional Image Generation**
+  
+  Yiyang Ma, **Huan Yang**, Wenjing Wang, Jianlong Fu, Jiaying Liu
+
+  *Preprint* [\[paper\]](https://arxiv.org/abs/2303.09319)
+
 - **Online Video Streaming Super-Resolution with Adaptive Look-Up Table Fusion**
   
   Guanghao Yin, Xinyang Jiang, Shan Jiang, Zhenhua Han, Ningxin Zheng, **Huan Yang**, Donglin Bai, Haisheng Tan, Shouqian Sun, Yuqing Yang, Dongsheng Li, Lili Qiu
@@ -172,6 +179,13 @@ My research interest includes image/video restoration, image/video enhancement a
 <span class='anchor' id='projects'></span>
 
 # Projects
+- Edge Video Super-Resolution Project [\[project\]](https://blogs.windows.com/msedgedev/2023/03/08/video-super-resolution-in-microsoft-edge/)
+  
+  We release our new feautre of video super-resolution in [Edge Canary](https://www.microsoftedgeinsider.com/zh-cn/download/canary). Video super resolution uses machine learning to enhance the quality of video viewed in Microsoft Edge by using graphics card agnostic algorithms to remove blocky compression artifacts and upscale the video resolution, so you can enjoy crisp and clear videos on YouTube and other video streaming platforms without sacrificing bandwidth. More details could be found from the [blog post](https://blogs.windows.com/msedgedev/2023/03/08/video-super-resolution-in-microsoft-edge/).
+
+  ![EdgeVSR_Demo](files/EdgeVSR_Demo.jpg)
+  <p align="center">Left: VSR OFF, Right: VSR O</p>
+
 - DaVinci Project [\[project\]](https://github.com/microsoft/DaVinci)
 
   The DaVinci project aims to solve the pain points of existing video enhancement and restoration tools, give full play to the advantages of AI technology and lower the threshold for users to process video footage. Currently, the toolkit includes general image super-resolution and conference meeting enhancement features.
