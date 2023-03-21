@@ -38,6 +38,12 @@ My research interest includes image/video restoration, image/video enhancement a
 <span class='anchor' id='publications'></span>
 
 # Publications
+- **Learning Data-Driven Vector-Quantized Degradation Model for Animation Video Super-Resolution**
+  
+  Zixi Tuo, **Huan Yang**, Jianlong Fu, Yujie Dun, Xueming Qian
+
+  *Preprint* [\[paper\]](https://arxiv.org/abs/2303.09826)
+
 - **Unified Multi-Modal Latent Diffusion for Joint Subject and Text Conditional Image Generation**
   
   Yiyang Ma, **Huan Yang**, Wenjing Wang, Jianlong Fu, Jiaying Liu
