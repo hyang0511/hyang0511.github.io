@@ -38,6 +38,12 @@ My research interest includes image/video restoration, image/video enhancement a
 <span class='anchor' id='publications'></span>
 
 # Publications
+- **NUWA-XL: Diffusion over Diffusion for eXtremely Long Video Generation**
+
+  Shengming Yin, Chenfei Wu, **Huan Yang**, Jianfeng Wang, Xiaodong Wang, Minheng Ni, Zhengyuan Yang, Linjie Li, Shuguang Liu, Fan Yang, Jianlong Fu, Gong Ming, Lijuan Wang, Zicheng Liu, Houqiang Li, Nan Duan
+
+  *Preprint* [\[paper\]](https://arxiv.org/abs/2303.12346)
+
 - **Learning Data-Driven Vector-Quantized Degradation Model for Animation Video Super-Resolution**
   
   Zixi Tuo, **Huan Yang**, Jianlong Fu, Yujie Dun, Xueming Qian
