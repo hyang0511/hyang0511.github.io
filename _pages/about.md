@@ -27,9 +27,9 @@ My research interest includes image/video restoration, image/video enhancement a
 - \[2022.09.17\] One paper is accepted by ACCV 2022.
 - \[2022.09.15\] One paper is accepted by NeurIPS 2022.
 - \[2022.06.30\] One paper is accepted by ACM Multimedia 2022.
-- \[2022.04.23\] Invited Talk at MSRA CVPR 2022 Paper Sharing.
+- \[2022.04.23\] Invited Talk at MSRA CVPR 2022 Pre-Workshop.
 - \[2022.03.02\] Two papers are accepted by CVPR 2022.
-- \[2021.10.13\] Invited Talk at MSRA ICCV 2021 Paper Sharing.
+- \[2021.10.13\] Invited Talk at MSRA ICCV 2021 Pre-Workshop.
 - \[2021.09.29\] One paper is accepted by NeurIPS 2021.
 - \[2021.07.23\] Two papers are accepted by ICCV 2021.
 - \[2021.07.04\] One paper is accepted by ACM Multimedia 2021.
@@ -226,5 +226,5 @@ My research interest includes image/video restoration, image/video enhancement a
 
 # Talks
 - \[2022.12.23\] Transformer Network Design in Low-Level Vision. *Invited Talk at PRCV 2022.* [\[slides\]](files\prcv2022_invited_talk.pdf)
-- \[2022.04.23\] TTVSR: Learning Trajectory-Aware Transformer for Video Super-Resolution. *Invited Talk at MSRA CVPR 2022 Paper Sharing.* [\[video\]](https://www.bilibili.com/video/BV1kr4y1t7KT)
-- \[2021.10.13\] CKDN: Learning Conditional Knowledge Distillation for Degraded-Reference Image Quality Assessment. *Invited Talk at MSRA ICCV 2021 Paper Sharing.* [\[video\]](https://www.bilibili.com/video/BV1vF411b7Tb)
+- \[2022.04.23\] TTVSR: Learning Trajectory-Aware Transformer for Video Super-Resolution. *Invited Talk at MSRA CVPR 2022 Pre-Workshop.* [\[video\]](https://www.bilibili.com/video/BV1kr4y1t7KT)
+- \[2021.10.13\] CKDN: Learning Conditional Knowledge Distillation for Degraded-Reference Image Quality Assessment. *Invited Talk at MSRA ICCV 2021 Pre-Workshop.* [\[video\]](https://www.bilibili.com/video/BV1vF411b7Tb)
