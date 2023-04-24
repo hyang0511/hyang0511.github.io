@@ -20,7 +20,7 @@ My research interest includes image/video restoration, image/video enhancement a
 <span class='anchor' id='news'></span>
 
 # News
-- \[2023.03.08\] Video Super-Resolution feature is online in Edge Canary.
+- \[2023.03.08\] Video Super-Resolution feature is online in Edge Browser.
 - \[2023.02.28\] One paper is accepted by CVPR 2023.
 - \[2023.02.17\] Two papers are accepted by TMM.
 - \[2022.12.23\] Invited Talk at PRCV 2022.
@@ -193,7 +193,7 @@ My research interest includes image/video restoration, image/video enhancement a
 # Projects
 - Video Super-Resolution for Edge Browser [\[project\]](https://blogs.windows.com/msedgedev/2023/03/08/video-super-resolution-in-microsoft-edge/)
   
-  We release our new feautre of video super-resolution in [Edge Canary](https://www.microsoftedgeinsider.com/zh-cn/download/canary). Video super resolution uses machine learning to enhance the quality of video viewed in Microsoft Edge by using graphics card agnostic algorithms to remove blocky compression artifacts and upscale the video resolution, so you can enjoy crisp and clear videos on YouTube and other video streaming platforms without sacrificing bandwidth.
+  We release our new feautre of video super-resolution in [Edge](https://www.microsoft.com/edge). Video super resolution uses machine learning to enhance the quality of video viewed in Microsoft Edge by using graphics card agnostic algorithms to remove blocky compression artifacts and upscale the video resolution, so you can enjoy crisp and clear videos on YouTube and other video streaming platforms without sacrificing bandwidth.
 
   ![EdgeVSR_Demo](files/EdgeVSR_Demo.png)
   <p align="center">Left: VSR OFF, Right: VSR ON</p>
