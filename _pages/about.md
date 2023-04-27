@@ -20,6 +20,7 @@ My research interest includes image/video restoration, image/video enhancement a
 <span class='anchor' id='news'></span>
 
 # News
+- \[2023.04.15\] Invited Talk at MSRA CVPR 2023 Pre-Workshop.
 - \[2023.03.08\] Video Super-Resolution feature is online in Edge Browser.
 - \[2023.02.28\] One paper is accepted by CVPR 2023.
 - \[2023.02.17\] Two papers are accepted by TMM.
@@ -225,6 +226,7 @@ My research interest includes image/video restoration, image/video enhancement a
 <span class='anchor' id='talks'></span>
 
 # Talks
+- \[2023.04.15\] MM-Diffusion: Learning Multi-Modal Diffusion Models for Joint Audio and Video Generation. *Invited Talk at MSRA CVPR 2023 Pre-Workshop.* [\[video\]](https://www.bilibili.com/video/BV1rk4y1J7Z4)
 - \[2022.12.23\] Transformer Network Design in Low-Level Vision. *Invited Talk at PRCV 2022.* [\[slides\]](files\prcv2022_invited_talk.pdf)
 - \[2022.04.23\] TTVSR: Learning Trajectory-Aware Transformer for Video Super-Resolution. *Invited Talk at MSRA CVPR 2022 Pre-Workshop.* [\[video\]](https://www.bilibili.com/video/BV1kr4y1t7KT)
 - \[2021.10.13\] CKDN: Learning Conditional Knowledge Distillation for Degraded-Reference Image Quality Assessment. *Invited Talk at MSRA ICCV 2021 Pre-Workshop.* [\[video\]](https://www.bilibili.com/video/BV1vF411b7Tb)
