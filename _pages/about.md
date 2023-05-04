@@ -20,6 +20,7 @@ My research interest includes image/video restoration, image/video enhancement a
 <span class='anchor' id='news'></span>
 
 # News
+- \[2023.05.02\] One paper is accepted by ACL 2023.
 - \[2023.04.15\] Invited Talk at MSRA CVPR 2023 Pre-Workshop.
 - \[2023.03.08\] Video Super-Resolution feature is online in Edge Browser.
 - \[2023.02.28\] One paper is accepted by CVPR 2023.
@@ -43,7 +44,7 @@ My research interest includes image/video restoration, image/video enhancement a
 
   Shengming Yin, Chenfei Wu, **Huan Yang**, Jianfeng Wang, Xiaodong Wang, Minheng Ni, Zhengyuan Yang, Linjie Li, Shuguang Liu, Fan Yang, Jianlong Fu, Gong Ming, Lijuan Wang, Zicheng Liu, Houqiang Li, Nan Duan
 
-  *Preprint* [\[paper\]](https://arxiv.org/abs/2303.12346)
+  *ACL 2023* [\[paper\]](https://arxiv.org/abs/2303.12346)
 
 - **Learning Data-Driven Vector-Quantized Degradation Model for Animation Video Super-Resolution**
   
