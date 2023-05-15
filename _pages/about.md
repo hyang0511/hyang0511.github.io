@@ -220,9 +220,11 @@ My research interest includes image/video restoration, image/video enhancement a
 - CVPR Reviewer: 2023, 2022
 - ICCV Reviewer: 2023, 2021
 - ECCV Reviewer: 2022
+- NeurIPS Reviewer: 2023
+- ACM MM Reviewer: 2023
 - ICASSP Reviewer: 2023
 - ICME Reviewer: 2023, 2022, 2021, 2020
-- Journal Reviewer: TIP, TMM, TMI, PR
+- Journal Reviewer: TIP, TMM, TMI, TCI, PR
 
 <span class='anchor' id='talks'></span>
 
