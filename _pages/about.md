@@ -40,6 +40,12 @@ My research interest includes image/video restoration, image/video enhancement a
 <span class='anchor' id='publications'></span>
 
 # Publications
+- **VideoFactory: Swap Attention in Spatiotemporal Diffusions for Text-to-Video Generation**
+  
+  Wenjing Wang, **Huan Yang**, Zixi Tuo, Huiguo He, Junchen Zhu, Jianlong Fu, Jiaying Liu
+
+  *Preprint* [\[paper\]](https://arxiv.org/abs/2305.10874)
+
 - **NUWA-XL: Diffusion over Diffusion for eXtremely Long Video Generation**
 
   Shengming Yin, Chenfei Wu, **Huan Yang**, Jianfeng Wang, Xiaodong Wang, Minheng Ni, Zhengyuan Yang, Linjie Li, Shuguang Liu, Fan Yang, Jianlong Fu, Gong Ming, Lijuan Wang, Zicheng Liu, Houqiang Li, Nan Duan
