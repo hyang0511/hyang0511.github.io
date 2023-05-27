@@ -50,7 +50,7 @@ My research interest includes image/video restoration, image/video enhancement a
 
   Shengming Yin, Chenfei Wu, **Huan Yang**, Jianfeng Wang, Xiaodong Wang, Minheng Ni, Zhengyuan Yang, Linjie Li, Shuguang Liu, Fan Yang, Jianlong Fu, Gong Ming, Lijuan Wang, Zicheng Liu, Houqiang Li, Nan Duan
 
-  *ACL 2023* [\[paper\]](https://arxiv.org/abs/2303.12346)
+  *ACL 2023 Oral* [\[paper\]](https://arxiv.org/abs/2303.12346)
 
 - **Learning Data-Driven Vector-Quantized Degradation Model for Animation Video Super-Resolution**
   
