@@ -11,11 +11,11 @@ redirect_from:
 <span class='anchor' id='about'></span>
 
 # About
-I am a senior researcher at Microsoft Research Asia, Multi-Modal Computing Group (the name is changed from Multimedia Search and Mining Group since Nov. 2022). We are hiring interns and researchers to work on low-level vision (image/video restoration and enhancement) and content creation (diffusion-based generation and image/video manipulation). If interested, feel free to email me with your CV.
+I am a senior researcher at Microsoft Research Asia, Multi-Modal Computing Group. We are hiring interns and researchers to work on content creation (diffusion-based generation and image/video manipulation) and low-level vision (image/video restoration and enhancement). If interested, feel free to email me with your CV.
 
 I received my Ph.D. degree in computer science in 2019 from Shanghai Jiao Tong University, under the supervision of Dr. Baining Guo and Prof. Minyi Guo. During my Ph.D., I worked closely with Dr. Baoyuan Wang at Microsoft Research Asia. Before that, I received my B.S. in computer science in 2014 from Shanghai Jiao Tong University, under the supervision of Prof. Yong Yu and Prof. Minyi Guo.
 
-My research interest includes image/video restoration, image/video enhancement and GAN/diffusion-based content creation. I have published about 20 papers at the top international CV/AI conferences such as CVPR, ICCV, ECCV, and NeurIPS.
+My research interest includes GAN/diffusion-based content creation, image/video restoration and enhancement. I have published about 20 papers at the top international CV/AI conferences such as CVPR, ICCV, ECCV, and NeurIPS.
 
 <span class='anchor' id='news'></span>
 
@@ -31,11 +31,6 @@ My research interest includes image/video restoration, image/video enhancement a
 - \[2022.06.30\] One paper is accepted by ACM Multimedia 2022.
 - \[2022.04.23\] Invited Talk at MSRA CVPR 2022 Pre-Workshop.
 - \[2022.03.02\] Two papers are accepted by CVPR 2022.
-- \[2021.10.13\] Invited Talk at MSRA ICCV 2021 Pre-Workshop.
-- \[2021.09.29\] One paper is accepted by NeurIPS 2021.
-- \[2021.07.23\] Two papers are accepted by ICCV 2021.
-- \[2021.07.04\] One paper is accepted by ACM Multimedia 2021.
-- \[2020.02.27\] One paper is accepted by CVPR 2020.
 
 <span class='anchor' id='publications'></span>
 
@@ -215,12 +210,6 @@ My research interest includes image/video restoration, image/video enhancement a
 
 <span class='anchor' id='activities'></span>
 
-- SR Viewer [\[project\]](https://github.com/hyang0511/SR_Viewer)
-
-  This is a simple toolkit to view and crop image patches for image/video super-resolution tasks. In image/video super-resolution, the authors usually need to show the full image with its zoom-in regions for better visualization. Using this toolkit, the authors can easily crop multiple zoom-in regions from multiple results. Both merged image and each crop patchs will be saved.
-
-  ![SR_Viewer](files/SR_Viewer.png)
-  <p align="center">The GUI for SR Viewer</p>  
 
 # Activities
 - CVPR Reviewer: 2023, 2022
