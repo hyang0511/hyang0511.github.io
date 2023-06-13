@@ -35,6 +35,9 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 <span class='anchor' id='publications'></span>
 
 # Publications
+
+## Content Creation
+
 - **MovieFactory: Automatic Movie Creation from Text using Large Generative Models for Language and Images**
   
   Junchen Zhu, **Huan Yang**, Huiguo He, Wenjing Wang, Zixi Tuo, Wen-Huang Cheng, Lianli Gao, Jingkuan Song, Jianlong Fu
@@ -53,17 +56,49 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 
   *ACL 2023 Oral* [\[paper\]](https://arxiv.org/abs/2303.12346)
 
-- **Learning Data-Driven Vector-Quantized Degradation Model for Animation Video Super-Resolution**
-  
-  Zixi Tuo, **Huan Yang**, Jianlong Fu, Yujie Dun, Xueming Qian
-
-  *Preprint* [\[paper\]](https://arxiv.org/abs/2303.09826)
-
 - **Unified Multi-Modal Latent Diffusion for Joint Subject and Text Conditional Image Generation**
   
   Yiyang Ma, **Huan Yang**, Wenjing Wang, Jianlong Fu, Jiaying Liu
 
   *Preprint* [\[paper\]](https://arxiv.org/abs/2303.09319)
+
+- **MM-Diffusion: Learning Multi-Modal Diffusion Models for Joint Audio and Video Generation**
+
+  Ludan Ruan, Yiyang Ma, **Huan Yang**, Huiguo He, Bei Liu, Jianlong Fu, Nicholas Jing Yuan, Qin Jin, Baining Guo
+  
+  *CVPR 2023* [\[paper\]](https://arxiv.org/abs/2212.09478) [\[code\]](https://github.com/researchmm/MM-Diffusion)
+
+- **AI Illustrator: Translating Raw Descriptions into Images by Prompt-based Cross-Modal Generation**
+  
+  Yiyang Ma, **Huan Yang**, Bei Liu, Jianlong Fu, Jiaying Liu
+  
+  *ACM Multimedia 2022 Oral* [\[paper\]](https://arxiv.org/abs/2209.03160) [\[code\]](https://github.com/researchmm/AI_Illustrator)
+
+- **Language-Guided Face Animation by Recurrent StyleGAN-based Generator**
+  
+  Tiankai Hang, **Huan Yang**, Bei Liu, Jianlong Fu, Xin Geng, Baining Guo.
+
+  *TMM* [\[paper\]](https://arxiv.org/abs/2208.05617)
+
+- **Improving Visual Quality of Image Synthesis by A Token-based Generator with Transformers**
+  
+  Yanhong Zeng, **Huan Yang**, Hongyang Chao, Jianbo Wang, Jianlong Fu
+  
+  *NeurIPS 2021* [\[paper\]](https://arxiv.org/abs/2111.03481)
+
+- **Learning Fine-Grained Motion Embedding for Landscape Animation**
+  
+  Hongwei Xue, Bei Liu, **Huan Yang**, Jianlong Fu, Houqiang Li, Jiebo Luo
+
+  *ACM Multimedia 2021 Oral* [\[paper\]](https://arxiv.org/abs/2109.02216)
+
+## Low-Level Vision
+
+- **Learning Data-Driven Vector-Quantized Degradation Model for Animation Video Super-Resolution**
+  
+  Zixi Tuo, **Huan Yang**, Jianlong Fu, Yujie Dun, Xueming Qian
+
+  *Preprint* [\[paper\]](https://arxiv.org/abs/2303.09826)
 
 - **Online Video Streaming Super-Resolution with Adaptive Look-Up Table Fusion**
   
@@ -77,35 +112,17 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 
   *Preprint* [\[paper\]](https://arxiv.org/abs/2212.14046) [\[code\]](https://github.com/researchmm/FTVSR)
 
-- **MM-Diffusion: Learning Multi-Modal Diffusion Models for Joint Audio and Video Generation**
-
-  Ludan Ruan, Yiyang Ma, **Huan Yang**, Huiguo He, Bei Liu, Jianlong Fu, Nicholas Jing Yuan, Qin Jin, Baining Guo
-  
-  *CVPR 2023* [\[paper\]](https://arxiv.org/abs/2212.09478) [\[code\]](https://github.com/researchmm/MM-Diffusion)
-
 - **Fine-Grained Image Style Transfer with Visual Transformers**
 
   Jianbo Wang, **Huan Yang**, Jianlong Fu, Toshihiko Yamasaki, Baining Guo
   
   *ACCV 2022* [\[paper\]](https://arxiv.org/abs/2210.05176) [\[code\]](https://github.com/researchmm/STTR)
 
-- **Long-Form Video-Language Pre-Training with Multimodal Temporal Contrastive Learning**
-  
-  Yuchong Sun, Hongwei Xue, Ruihua Song, Bei Liu, **Huan Yang**, Jianlong Fu
-  
-  *NeurIPS 2022* [\[paper\]](https://arxiv.org/abs/2210.06031) [\[code\]](https://github.com/microsoft/XPretrain/tree/main/LF-VILA)
-
 - **Learning Spatiotemporal Frequency-Transformer for Compressed Video Super-Resolution**
   
   Zhongwei Qiu, **Huan Yang**, Jianlong Fu, Dongmei Fu
   
   *ECCV 2022* [\[paper\]](https://arxiv.org/abs/2208.03012) [\[code\]](https://github.com/researchmm/FTVSR)
-
-- **AI Illustrator: Translating Raw Descriptions into Images by Prompt-based Cross-Modal Generation**
-  
-  Yiyang Ma, **Huan Yang**, Bei Liu, Jianlong Fu, Jiaying Liu
-  
-  *ACM Multimedia 2022 Oral* [\[paper\]](https://arxiv.org/abs/2209.03160) [\[code\]](https://github.com/researchmm/AI_Illustrator)
 
 - **4D LUT: Learnable Context-Aware 4D Lookup Table for Image Enhancement**
     
@@ -118,12 +135,6 @@ My research interest includes GAN/diffusion-based content creation, image/video 
   **Huan Yang**
   
   *CTSoc-NCT* [\[paper\]](https://ctsoc.ieee.org/images/CTSOC-NCT-2022-09-FA.pdf)
-
-- **Language-Guided Face Animation by Recurrent StyleGAN-based Generator**
-  
-  Tiankai Hang, **Huan Yang**, Bei Liu, Jianlong Fu, Xin Geng, Baining Guo.
-
-  *TMM* [\[paper\]](https://arxiv.org/abs/2208.05617)
 
 - **Online Video Super-Resolution with Convolutional Kernel Bypass Graft**
   
@@ -143,29 +154,11 @@ My research interest includes GAN/diffusion-based content creation, image/video 
   
   *Preprint* [\[paper\]](https://arxiv.org/abs/2207.09048)
 
-- **Advancing High-Resolution Video-Language Representation with Large-Scale Video Transcriptions**
-  
-  Hongwei Xue, Tiankai Hang, Yanhong Zeng, Yuchong Sun, Bei Liu, **Huan Yang**, Jianlong Fu, Baining Guo
-  
-  *CVPR 2022* [\[paper\]](https://arxiv.org/abs/2111.10337) [\[code\]](https://github.com/microsoft/XPretrain/tree/main/hd-vila)
-
 - **Learning Trajectory-Aware Transformer for Video Super-Resolution**
   
   Chengxu Liu, **Huan Yang**, Jianlong Fu, Xueming Qian
   
   *CVPR 2022 Oral* [\[paper\]](https://arxiv.org/abs/2204.04216) [\[code\]](https://github.com/researchmm/TTVSR)
-
-- **Improving Visual Quality of Image Synthesis by A Token-based Generator with Transformers**
-  
-  Yanhong Zeng, **Huan Yang**, Hongyang Chao, Jianbo Wang, Jianlong Fu
-  
-  *NeurIPS 2021* [\[paper\]](https://arxiv.org/abs/2111.03481)
-
-- **Learning Fine-Grained Motion Embedding for Landscape Animation**
-  
-  Hongwei Xue, Bei Liu, **Huan Yang**, Jianlong Fu, Houqiang Li, Jiebo Luo
-
-  *ACM Multimedia 2021 Oral* [\[paper\]](https://arxiv.org/abs/2109.02216)
 
 - **Domain-Aware Universal Style Transfer**
   
@@ -190,6 +183,20 @@ My research interest includes GAN/diffusion-based content creation, image/video 
   **Huan Yang**, Baoyuan Wang, Noranart Vesdapunt, Minyi Guo, Sing Bing Kang
   
   *TVCG* [\[paper\]](https://arxiv.org/abs/1803.02269)
+
+## High-Level Understanding
+
+- **Long-Form Video-Language Pre-Training with Multimodal Temporal Contrastive Learning**
+  
+  Yuchong Sun, Hongwei Xue, Ruihua Song, Bei Liu, **Huan Yang**, Jianlong Fu
+  
+  *NeurIPS 2022* [\[paper\]](https://arxiv.org/abs/2210.06031) [\[code\]](https://github.com/microsoft/XPretrain/tree/main/LF-VILA)
+
+- **Advancing High-Resolution Video-Language Representation with Large-Scale Video Transcriptions**
+  
+  Hongwei Xue, Tiankai Hang, Yanhong Zeng, Yuchong Sun, Bei Liu, **Huan Yang**, Jianlong Fu, Baining Guo
+  
+  *CVPR 2022* [\[paper\]](https://arxiv.org/abs/2111.10337) [\[code\]](https://github.com/microsoft/XPretrain/tree/main/hd-vila)
 
 - **Unsupervised Extraction of Video Highlights via Robust Recurrent Auto-Encoders**
   
