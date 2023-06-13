@@ -35,6 +35,12 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 <span class='anchor' id='publications'></span>
 
 # Publications
+- **MovieFactory: Automatic Movie Creation from Text using Large Generative Models for Language and Images**
+  
+  Junchen Zhu, **Huan Yang**, Huiguo He, Wenjing Wang, Zixi Tuo, Wen-Huang Cheng, Lianli Gao, Jingkuan Song, Jianlong Fu
+
+  *Preprint* [\[paper\]](https://arxiv.org/abs/2306.07257)
+
 - **VideoFactory: Swap Attention in Spatiotemporal Diffusions for Text-to-Video Generation**
   
   Wenjing Wang, **Huan Yang**, Zixi Tuo, Huiguo He, Junchen Zhu, Jianlong Fu, Jiaying Liu
