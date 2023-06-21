@@ -36,6 +36,12 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 
 # Publications
 
+- **Learning Profitable NFT Image Diffusions via Multiple Visual-Policy Guided Reinforcement Learning**
+  
+  Huiguo He, Tianfu Wang, **Huan Yang**, Jianlong Fu, Nicholas Jing Yuan, Jian Yin, Hongyang Chao, Qi Zhang
+
+  *Preprint* [\[paper\]](https://arxiv.org/abs/2306.11731)
+
 - **MovieFactory: Automatic Movie Creation from Text using Large Generative Models for Language and Images**
   
   Junchen Zhu, **Huan Yang**, Huiguo He, Wenjing Wang, Zixi Tuo, Wen-Huang Cheng, Lianli Gao, Jingkuan Song, Jianlong Fu
