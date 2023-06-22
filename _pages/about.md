@@ -76,7 +76,7 @@ My research interest includes GAN/diffusion-based content creation, image/video 
   
   Yiyang Ma, **Huan Yang**, Wenjing Wang, Jianlong Fu, Jiaying Liu
 
-  *Preprint* [\[paper\]](https://arxiv.org/abs/2303.09319)
+  *ICCV 2023 Under Review* [\[paper\]](https://arxiv.org/abs/2303.09319)
 
 - **Online Video Streaming Super-Resolution with Adaptive Look-Up Table Fusion**
   
