@@ -40,25 +40,25 @@ My research interest includes GAN/diffusion-based content creation, image/video 
   
   Huiguo He, Tianfu Wang, **Huan Yang**, Jianlong Fu, Nicholas Jing Yuan, Jian Yin, Hongyang Chao, Qi Zhang
 
-  *Preprint* [\[paper\]](https://arxiv.org/abs/2306.11731)
+  *ACM Multimedia 2023 Under Review* [\[paper\]](https://arxiv.org/abs/2306.11731)
 
 - **MovieFactory: Automatic Movie Creation from Text using Large Generative Models for Language and Images**
   
   Junchen Zhu, **Huan Yang**, Huiguo He, Wenjing Wang, Zixi Tuo, Wen-Huang Cheng, Lianli Gao, Jingkuan Song, Jianlong Fu
 
-  *Preprint* [\[paper\]](https://arxiv.org/abs/2306.07257)
+  *ACM Multimedia 2023 Under Review* [\[paper\]](https://arxiv.org/abs/2306.07257)
 
 - **VideoFactory: Swap Attention in Spatiotemporal Diffusions for Text-to-Video Generation**
   
   Wenjing Wang, **Huan Yang**, Zixi Tuo, Huiguo He, Junchen Zhu, Jianlong Fu, Jiaying Liu
 
-  *Preprint* [\[paper\]](https://arxiv.org/abs/2305.10874)
+  *NeurIPS 2023 Under Review* [\[paper\]](https://arxiv.org/abs/2305.10874)
 
 - **Solving Diffusion ODEs with Optimal Boundary Conditions for Better Image Super-Resolution**
   
   Yiyang Ma, **Huan Yang**, Wenhan Yang, Jianlong Fu, Jiaying Liu
 
-  *Preprint* [\[paper\]](https://arxiv.org/abs/2305.15357)
+  *NeurIPS 2023 Under Review* [\[paper\]](https://arxiv.org/abs/2305.15357)
 
 - **NUWA-XL: Diffusion over Diffusion for eXtremely Long Video Generation**
 
@@ -70,7 +70,7 @@ My research interest includes GAN/diffusion-based content creation, image/video 
   
   Zixi Tuo, **Huan Yang**, Jianlong Fu, Yujie Dun, Xueming Qian
 
-  *Preprint* [\[paper\]](https://arxiv.org/abs/2303.09826)
+  *ICCV 2023 Under Review* [\[paper\]](https://arxiv.org/abs/2303.09826)
 
 - **Unified Multi-Modal Latent Diffusion for Joint Subject and Text Conditional Image Generation**
   
@@ -82,13 +82,13 @@ My research interest includes GAN/diffusion-based content creation, image/video 
   
   Guanghao Yin, Xinyang Jiang, Shan Jiang, Zhenhua Han, Ningxin Zheng, **Huan Yang**, Donglin Bai, Haisheng Tan, Shouqian Sun, Yuqing Yang, Dongsheng Li, Lili Qiu
 
-  *Preprint* [\[paper\]](https://arxiv.org/abs/2303.00334)
+  *TIP Under Review* [\[paper\]](https://arxiv.org/abs/2303.00334)
 
 - **Learning Spatiotemporal Frequency-Transformer for Low-Quality Video Super-Resolution**
   
   Zhongwei Qiu, **Huan Yang**, Jianlong Fu, Daochang Liu, Chang Xu, Dongmei Fu
 
-  *Preprint* [\[paper\]](https://arxiv.org/abs/2212.14046) [\[code\]](https://github.com/researchmm/FTVSR)
+  *TPAMI Under Review* [\[paper\]](https://arxiv.org/abs/2212.14046) [\[code\]](https://github.com/researchmm/FTVSR)
 
 - **MM-Diffusion: Learning Multi-Modal Diffusion Models for Joint Audio and Video Generation**
 
@@ -124,7 +124,7 @@ My research interest includes GAN/diffusion-based content creation, image/video 
     
   Chengxu Liu, **Huan Yang**, Jianlong Fu, Xueming Qian
   
-  *Preprint* [\[paper\]](https://arxiv.org/abs/2209.01749)
+  *TIP* [\[paper\]](https://arxiv.org/abs/2209.01749)
 
 - **Rethinking Image and Video Restoration: An Industrial Perspective**
   
@@ -154,7 +154,7 @@ My research interest includes GAN/diffusion-based content creation, image/video 
   
   Chengxu Liu, **Huan Yang**, Jianlong Fu, Xueming Qian
   
-  *Preprint* [\[paper\]](https://arxiv.org/abs/2207.09048)
+  *TIP Under Review* [\[paper\]](https://arxiv.org/abs/2207.09048)
 
 - **Advancing High-Resolution Video-Language Representation with Large-Scale Video Transcriptions**
   
