@@ -20,6 +20,7 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 <span class='anchor' id='news'></span>
 
 # News
+- \[2023.07.14\] One paper is accepted by ICCV 2023.
 - \[2023.05.02\] One paper is accepted by ACL 2023.
 - \[2023.04.15\] Invited Talk at MSRA CVPR 2023 Pre-Workshop.
 - \[2023.03.08\] Video Super-Resolution feature is online in Edge Browser.
@@ -70,13 +71,13 @@ My research interest includes GAN/diffusion-based content creation, image/video 
   
   Zixi Tuo, **Huan Yang**, Jianlong Fu, Yujie Dun, Xueming Qian
 
-  *ICCV 2023 Under Review* [\[paper\]](https://arxiv.org/abs/2303.09826)
+  *ICCV 2023* [\[paper\]](https://arxiv.org/abs/2303.09826)
 
 - **Unified Multi-Modal Latent Diffusion for Joint Subject and Text Conditional Image Generation**
   
   Yiyang Ma, **Huan Yang**, Wenjing Wang, Jianlong Fu, Jiaying Liu
 
-  *ICCV 2023 Under Review* [\[paper\]](https://arxiv.org/abs/2303.09319)
+  *Preprint* [\[paper\]](https://arxiv.org/abs/2303.09319)
 
 - **Online Video Streaming Super-Resolution with Adaptive Look-Up Table Fusion**
   
