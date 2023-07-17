@@ -20,6 +20,7 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 <span class='anchor' id='news'></span>
 
 # News
+- \[2023.07.16\] One paper is accepted by ACM Multimedia Brave New Ideas 2023.
 - \[2023.07.14\] One paper is accepted by ICCV 2023.
 - \[2023.05.02\] One paper is accepted by ACL 2023.
 - \[2023.04.15\] Invited Talk at MSRA CVPR 2023 Pre-Workshop.
@@ -47,7 +48,7 @@ My research interest includes GAN/diffusion-based content creation, image/video 
   
   Junchen Zhu, **Huan Yang**, Huiguo He, Wenjing Wang, Zixi Tuo, Wen-Huang Cheng, Lianli Gao, Jingkuan Song, Jianlong Fu
 
-  *ACM Multimedia 2023 Under Review* [\[paper\]](https://arxiv.org/abs/2306.07257)
+  *ACM Multimedia Brave New Ideas 2023 Oral* [\[paper\]](https://arxiv.org/abs/2306.07257)
 
 - **VideoFactory: Swap Attention in Spatiotemporal Diffusions for Text-to-Video Generation**
   
