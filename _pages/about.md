@@ -20,6 +20,7 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 <span class='anchor' id='news'></span>
 
 # News
+- \[2023.07.17\] Receive the Enterprise Technology Innovation Award in ChinaMM 2023.
 - \[2023.07.16\] One paper is accepted by ACM Multimedia Brave New Ideas 2023.
 - \[2023.07.14\] One paper is accepted by ICCV 2023.
 - \[2023.05.02\] One paper is accepted by ACL 2023.
