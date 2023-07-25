@@ -20,8 +20,9 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 <span class='anchor' id='news'></span>
 
 # News
+- \[2023.07.25\] One paper is accepted by ACM MM 2023 Demos and Videos Track.
 - \[2023.07.17\] Receive the Enterprise Technology Innovation Award in ChinaMM 2023.
-- \[2023.07.16\] One paper is accepted by ACM Multimedia Brave New Ideas 2023.
+- \[2023.07.16\] One paper is accepted by ACM MM Brave New Ideas 2023.
 - \[2023.07.14\] One paper is accepted by ICCV 2023.
 - \[2023.05.02\] One paper is accepted by ACL 2023.
 - \[2023.04.15\] Invited Talk at MSRA CVPR 2023 Pre-Workshop.
@@ -31,7 +32,7 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 - \[2022.12.23\] Invited Talk at PRCV 2022.
 - \[2022.09.17\] One paper is accepted by ACCV 2022.
 - \[2022.09.15\] One paper is accepted by NeurIPS 2022.
-- \[2022.06.30\] One paper is accepted by ACM Multimedia 2022.
+- \[2022.06.30\] One paper is accepted by ACM MM 2022.
 - \[2022.04.23\] Invited Talk at MSRA CVPR 2022 Pre-Workshop.
 - \[2022.03.02\] Two papers are accepted by CVPR 2022.
 
@@ -39,17 +40,23 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 
 # Publications
 
+- **Automatic Diffusion-Based Social Media Video Generation for Mobile Devices from Text**
+  
+  Junchen Zhu, **Huan Yang**, Wenjing Wang, Huiguo He, Zixi Tuo, Yongsheng Yu, Wen-Huang Cheng, Lianli Gao, Jingkuan Song, Jianlong Fu, Jiebo Luo
+
+  *ACM MM 2023 Demos and Videos Track*
+
 - **Learning Profitable NFT Image Diffusions via Multiple Visual-Policy Guided Reinforcement Learning**
   
   Huiguo He, Tianfu Wang, **Huan Yang**, Jianlong Fu, Nicholas Jing Yuan, Jian Yin, Hongyang Chao, Qi Zhang
 
-  *ACM Multimedia 2023 Under Review* [\[paper\]](https://arxiv.org/abs/2306.11731)
+  *ACM MM 2023 Under Review* [\[paper\]](https://arxiv.org/abs/2306.11731)
 
 - **MovieFactory: Automatic Movie Creation from Text using Large Generative Models for Language and Images**
   
   Junchen Zhu, **Huan Yang**, Huiguo He, Wenjing Wang, Zixi Tuo, Wen-Huang Cheng, Lianli Gao, Jingkuan Song, Jianlong Fu
 
-  *ACM Multimedia Brave New Ideas 2023 Oral* [\[paper\]](https://arxiv.org/abs/2306.07257)
+  *ACM MM Brave New Ideas 2023 Oral* [\[paper\]](https://arxiv.org/abs/2306.07257)
 
 - **VideoFactory: Swap Attention in Spatiotemporal Diffusions for Text-to-Video Generation**
   
@@ -121,7 +128,7 @@ My research interest includes GAN/diffusion-based content creation, image/video 
   
   Yiyang Ma, **Huan Yang**, Bei Liu, Jianlong Fu, Jiaying Liu
   
-  *ACM Multimedia 2022 Oral* [\[paper\]](https://arxiv.org/abs/2209.03160) [\[code\]](https://github.com/researchmm/AI_Illustrator)
+  *ACM MM 2022 Oral* [\[paper\]](https://arxiv.org/abs/2209.03160) [\[code\]](https://github.com/researchmm/AI_Illustrator)
 
 - **4D LUT: Learnable Context-Aware 4D Lookup Table for Image Enhancement**
     
@@ -181,7 +188,7 @@ My research interest includes GAN/diffusion-based content creation, image/video 
   
   Hongwei Xue, Bei Liu, **Huan Yang**, Jianlong Fu, Houqiang Li, Jiebo Luo
 
-  *ACM Multimedia 2021 Oral* [\[paper\]](https://arxiv.org/abs/2109.02216)
+  *ACM MM 2021 Oral* [\[paper\]](https://arxiv.org/abs/2109.02216)
 
 - **Domain-Aware Universal Style Transfer**
   
