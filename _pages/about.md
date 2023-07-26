@@ -20,6 +20,7 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 <span class='anchor' id='news'></span>
 
 # News
+- \[2023.07.26\] One paper is accepted by ACM MM 2023.
 - \[2023.07.25\] One paper is accepted by ACM MM 2023 Demos and Videos Track.
 - \[2023.07.17\] Receive the Enterprise Technology Innovation Award in ChinaMM 2023.
 - \[2023.07.16\] One paper is accepted by ACM MM Brave New Ideas 2023.
@@ -50,7 +51,7 @@ My research interest includes GAN/diffusion-based content creation, image/video 
   
   Huiguo He, Tianfu Wang, **Huan Yang**, Jianlong Fu, Nicholas Jing Yuan, Jian Yin, Hongyang Chao, Qi Zhang
 
-  *ACM MM 2023 Under Review* [\[paper\]](https://arxiv.org/abs/2306.11731)
+  *ACM MM 2023* [\[paper\]](https://arxiv.org/abs/2306.11731)
 
 - **MovieFactory: Automatic Movie Creation from Text using Large Generative Models for Language and Images**
   
