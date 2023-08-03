@@ -20,8 +20,10 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 <span class='anchor' id='news'></span>
 
 # News
-- \[2023.07.17\] Receive the Enterprise Technology Innovation Award in ChinaMM 2023.
-- \[2023.07.16\] One paper is accepted by ACM Multimedia Brave New Ideas 2023.
+- \[2023.08.03\] Receive the Enterprise Technology Innovation Award in ChinaMM 2023.
+- \[2023.07.26\] One paper is accepted by ACM Multimedia 2023.
+- \[2023.07.25\] One paper is accepted by ACM Multimedia 2023 Technical Demos and Videos.
+- \[2023.07.16\] One paper is accepted by ACM Multimedia 2023 Brave New Ideas.
 - \[2023.07.14\] One paper is accepted by ICCV 2023.
 - \[2023.05.02\] One paper is accepted by ACL 2023.
 - \[2023.04.15\] Invited Talk at MSRA CVPR 2023 Pre-Workshop.
@@ -39,29 +41,35 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 
 # Publications
 
+- **MobileVidFactory: Automatic Diffusion-Based Social Media Video Generation for Mobile Devices from Text**
+  
+  Junchen Zhu, **Huan Yang**, Wenjing Wang, Huiguo He, Zixi Tuo, Yongsheng Yu, Wen-Huang Cheng, Lianli Gao, Jingkuan Song, Jianlong Fu, Jiebo Luo
+
+  *ACM Multimedia 2023 Technical Demos and Videos* [\[paper\]](https://arxiv.org/abs/2306.07257)
+
 - **Learning Profitable NFT Image Diffusions via Multiple Visual-Policy Guided Reinforcement Learning**
   
   Huiguo He, Tianfu Wang, **Huan Yang**, Jianlong Fu, Nicholas Jing Yuan, Jian Yin, Hongyang Chao, Qi Zhang
 
-  *ACM Multimedia 2023 Under Review* [\[paper\]](https://arxiv.org/abs/2306.11731)
+  *ACM Multimedia 2023* [\[paper\]](https://arxiv.org/abs/2306.11731)
 
 - **MovieFactory: Automatic Movie Creation from Text using Large Generative Models for Language and Images**
   
   Junchen Zhu, **Huan Yang**, Huiguo He, Wenjing Wang, Zixi Tuo, Wen-Huang Cheng, Lianli Gao, Jingkuan Song, Jianlong Fu
 
-  *ACM Multimedia Brave New Ideas 2023 Oral* [\[paper\]](https://arxiv.org/abs/2306.07257)
+  *ACM Multimedia 2023 Brave New Ideas* [\[paper\]](https://arxiv.org/abs/2306.07257)
 
 - **VideoFactory: Swap Attention in Spatiotemporal Diffusions for Text-to-Video Generation**
   
   Wenjing Wang, **Huan Yang**, Zixi Tuo, Huiguo He, Junchen Zhu, Jianlong Fu, Jiaying Liu
 
-  *NeurIPS 2023 Under Review* [\[paper\]](https://arxiv.org/abs/2305.10874)
+  *Under Review* [\[paper\]](https://arxiv.org/abs/2305.10874)
 
 - **Solving Diffusion ODEs with Optimal Boundary Conditions for Better Image Super-Resolution**
   
   Yiyang Ma, **Huan Yang**, Wenhan Yang, Jianlong Fu, Jiaying Liu
 
-  *NeurIPS 2023 Under Review* [\[paper\]](https://arxiv.org/abs/2305.15357)
+  *Under Review* [\[paper\]](https://arxiv.org/abs/2305.15357)
 
 - **NUWA-XL: Diffusion over Diffusion for eXtremely Long Video Generation**
 
