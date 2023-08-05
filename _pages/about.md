@@ -20,6 +20,7 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 <span class='anchor' id='news'></span>
 
 # News
+- \[2023.08.05\] One paper is accepted by TIP.
 - \[2023.08.03\] Receive the Enterprise Technology Innovation Award in ChinaMM 2023.
 - \[2023.07.26\] One paper is accepted by ACM Multimedia 2023.
 - \[2023.07.25\] One paper is accepted by ACM Multimedia 2023 Technical Demos and Videos.
@@ -165,7 +166,7 @@ My research interest includes GAN/diffusion-based content creation, image/video 
   
   Chengxu Liu, **Huan Yang**, Jianlong Fu, Xueming Qian
   
-  *TIP Under Review* [\[paper\]](https://arxiv.org/abs/2207.09048)
+  *TIP* [\[paper\]](https://arxiv.org/abs/2207.09048)
 
 - **Advancing High-Resolution Video-Language Representation with Large-Scale Video Transcriptions**
   
