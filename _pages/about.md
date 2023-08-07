@@ -26,17 +26,12 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 - \[2023.07.25\] One paper is accepted by ACM Multimedia 2023 Technical Demos and Videos.
 - \[2023.07.16\] One paper is accepted by ACM Multimedia 2023 Brave New Ideas.
 - \[2023.07.14\] One paper is accepted by ICCV 2023.
+- \[2023.06.16\] One paper is accepted by TIP.
 - \[2023.05.02\] One paper is accepted by ACL 2023.
 - \[2023.04.15\] Invited Talk at MSRA CVPR 2023 Pre-Workshop.
 - \[2023.03.08\] Video Super-Resolution feature is online in Edge Browser.
 - \[2023.02.28\] One paper is accepted by CVPR 2023.
 - \[2023.02.17\] Two papers are accepted by TMM.
-- \[2022.12.23\] Invited Talk at PRCV 2022.
-- \[2022.09.17\] One paper is accepted by ACCV 2022.
-- \[2022.09.15\] One paper is accepted by NeurIPS 2022.
-- \[2022.06.30\] One paper is accepted by ACM MM 2022.
-- \[2022.04.23\] Invited Talk at MSRA CVPR 2022 Pre-Workshop.
-- \[2022.03.02\] Two papers are accepted by CVPR 2022.
 
 <span class='anchor' id='publications'></span>
 
