@@ -125,7 +125,7 @@ My research interest includes GAN/diffusion-based content creation, image/video 
   
   Yiyang Ma, **Huan Yang**, Bei Liu, Jianlong Fu, Jiaying Liu
   
-  *ACM MM 2022 Oral* [\[paper\]](https://arxiv.org/abs/2209.03160) [\[code\]](https://github.com/researchmm/AI_Illustrator)
+  *ACM Multimedia 2022 Oral* [\[paper\]](https://arxiv.org/abs/2209.03160) [\[code\]](https://github.com/researchmm/AI_Illustrator)
 
 - **4D LUT: Learnable Context-Aware 4D Lookup Table for Image Enhancement**
     
@@ -185,7 +185,7 @@ My research interest includes GAN/diffusion-based content creation, image/video 
   
   Hongwei Xue, Bei Liu, **Huan Yang**, Jianlong Fu, Houqiang Li, Jiebo Luo
 
-  *ACM MM 2021 Oral* [\[paper\]](https://arxiv.org/abs/2109.02216)
+  *ACM Multimedia 2021 Oral* [\[paper\]](https://arxiv.org/abs/2109.02216)
 
 - **Domain-Aware Universal Style Transfer**
   
