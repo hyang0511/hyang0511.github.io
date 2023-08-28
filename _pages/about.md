@@ -20,6 +20,7 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 <span class='anchor' id='news'></span>
 
 # News
+- \[2023.08.28\] One paper is accepted by TPAMI.
 - \[2023.08.05\] One paper is accepted by TIP.
 - \[2023.08.03\] Receive the Enterprise Technology Innovation Award in ChinaMM 2023.
 - \[2023.07.26\] One paper is accepted by ACM Multimedia 2023.
@@ -91,11 +92,11 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 
   *TIP Under Review* [\[paper\]](https://arxiv.org/abs/2303.00334)
 
-- **Learning Spatiotemporal Frequency-Transformer for Low-Quality Video Super-Resolution**
+- **Learning Degradation-Robust Spatiotemporal Frequency-Transformer for Video Super-Resolution**
   
   Zhongwei Qiu, **Huan Yang**, Jianlong Fu, Daochang Liu, Chang Xu, Dongmei Fu
 
-  *TPAMI Under Review* [\[paper\]](https://arxiv.org/abs/2212.14046) [\[code\]](https://github.com/researchmm/FTVSR)
+  *TPAMI* [\[paper\]](https://arxiv.org/abs/2212.14046) [\[code\]](https://github.com/researchmm/FTVSR)
 
 - **MM-Diffusion: Learning Multi-Modal Diffusion Models for Joint Audio and Video Generation**
 
