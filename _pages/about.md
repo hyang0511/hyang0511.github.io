@@ -20,6 +20,8 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 <span class='anchor' id='news'></span>
 
 # News
+- \[2023.01.19\] One paper is accepted by CHI.
+- \[2024.01.16\] One paper is accepted by ICLR.
 - \[2023.08.28\] One paper is accepted by TPAMI.
 - \[2023.08.05\] One paper is accepted by TIP.
 - \[2023.08.03\] Receive the Enterprise Technology Innovation Award in ChinaMM 2023.
@@ -37,6 +39,18 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 <span class='anchor' id='publications'></span>
 
 # Publications
+
+- **Examining Human Perception of Generative Content Replacement in Image Privacy Protection**
+  
+  Anran Xu, Shitao Fang, **Huan Yang**, Simo Hosio, Koji Yatani
+
+  *CHI 2024* [\[paper\]](https://arxiv.org/abs/2307.16371)
+
+- **Solving Diffusion ODEs with Optimal Boundary Conditions for Better Image Super-Resolution**
+  
+  Yiyang Ma, **Huan Yang**, Wenhan Yang, Jianlong Fu, Jiaying Liu
+
+  *ICLR 2014* [\[paper\]](https://arxiv.org/abs/2305.15357)
 
 - **MobileVidFactory: Automatic Diffusion-Based Social Media Video Generation for Mobile Devices from Text**
   
@@ -61,12 +75,6 @@ My research interest includes GAN/diffusion-based content creation, image/video 
   Wenjing Wang, **Huan Yang**, Zixi Tuo, Huiguo He, Junchen Zhu, Jianlong Fu, Jiaying Liu
 
   *Under Review* [\[paper\]](https://arxiv.org/abs/2305.10874)
-
-- **Solving Diffusion ODEs with Optimal Boundary Conditions for Better Image Super-Resolution**
-  
-  Yiyang Ma, **Huan Yang**, Wenhan Yang, Jianlong Fu, Jiaying Liu
-
-  *Under Review* [\[paper\]](https://arxiv.org/abs/2305.15357)
 
 - **NUWA-XL: Diffusion over Diffusion for eXtremely Long Video Generation**
 
