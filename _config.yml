@@ -22,11 +22,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Huan Yang (杨欢)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Senior Researcher<br>Microsoft Research Asia"
+  bio              : "Researcher<br>01.AI"
   location         : "Beijing, China"
   googlescholar    : "https://scholar.google.com/citations?user=O8NTlooAAAAJ&hl=en"
-  email            : "huayan@microsoft.com"
-  uri              : "https://www.microsoft.com/en-us/research/people/huayan/"
+  email            : "hyang@fastmail.com"
+  # uri              : "https://www.microsoft.com/en-us/research/people/huayan/"
   github           : "hyang0511"
   linkedin         : "欢-杨-665a6572"
 

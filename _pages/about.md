@@ -11,7 +11,7 @@ redirect_from:
 <span class='anchor' id='about'></span>
 
 # About
-I am a senior researcher at Microsoft Research Asia, Multi-Modal Computing Group. We are hiring interns and researchers to work on content creation (diffusion-based generation and image/video manipulation) and low-level vision (image/video restoration and enhancement). If interested, feel free to email me with your CV.
+I am a researcher at [01.AI](https://01.ai), multi-modality group, leading the direction of visual generation. Before that, I am a senior researcher at Microsoft research asia, multi-modal computing group. We are hiring interns and researchers to work on content creation (diffusion-based generation and image/video manipulation) and low-level vision (image/video restoration and enhancement). If interested, feel free to email me with your CV.
 
 I received my Ph.D. degree in computer science in 2019 from Shanghai Jiao Tong University, under the supervision of Dr. Baining Guo and Prof. Minyi Guo. During my Ph.D., I worked closely with Dr. Baoyuan Wang at Microsoft Research Asia. Before that, I received my B.S. in computer science in 2014 from Shanghai Jiao Tong University, under the supervision of Prof. Yong Yu and Prof. Minyi Guo.
 
@@ -247,7 +247,7 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 
 
 # Activities
-- CVPR Reviewer: 2023, 2022
+- CVPR Reviewer: 2024, 2023, 2022
 - ICCV Reviewer: 2023, 2021
 - ECCV Reviewer: 2022
 - NeurIPS Reviewer: 2023
