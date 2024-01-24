@@ -20,7 +20,7 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 <span class='anchor' id='news'></span>
 
 # News
-- \[2023.01.19\] One paper is accepted by CHI.
+- \[2024.01.19\] One paper is accepted by CHI.
 - \[2024.01.16\] One paper is accepted by ICLR.
 - \[2023.08.28\] One paper is accepted by TPAMI.
 - \[2023.08.05\] One paper is accepted by TIP.
