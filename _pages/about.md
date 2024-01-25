@@ -22,7 +22,7 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 # News
 - \[2024.01.19\] One paper is accepted by CHI.
 - \[2024.01.16\] One paper is accepted by ICLR.
-- \[2023.08.28\] One paper is accepted by TPAMI.
+<!-- - \[2023.08.28\] One paper is accepted by TPAMI.
 - \[2023.08.05\] One paper is accepted by TIP.
 - \[2023.08.03\] Receive the Enterprise Technology Innovation Award in ChinaMM 2023.
 - \[2023.07.26\] One paper is accepted by ACM Multimedia 2023.
@@ -34,7 +34,7 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 - \[2023.04.15\] Invited Talk at MSRA CVPR 2023 Pre-Workshop.
 - \[2023.03.08\] Video Super-Resolution feature is online in Edge Browser.
 - \[2023.02.28\] One paper is accepted by CVPR 2023.
-- \[2023.02.17\] Two papers are accepted by TMM.
+- \[2023.02.17\] Two papers are accepted by TMM. -->
 
 <span class='anchor' id='publications'></span>
 
