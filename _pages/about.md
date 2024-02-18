@@ -44,6 +44,12 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 
 # Publications
 
+- **Online Streaming Video Super-Resolution with Convolutional Look-Up Table**
+  
+  Guanghao Yin, Zefan Qu, Xinyang Jiang, Shan Jiang, Zhenhua Han, Ningxin Zheng, Xiaohong Liu, **Huan Yang**, Yuqing Yang, Dongsheng Li, Lili Qiu
+
+  *TIP* [\[paper\]](https://arxiv.org/abs/2303.00334)
+
 - **Examining Human Perception of Generative Content Replacement in Image Privacy Protection**
   
   Anran Xu, Shitao Fang, **Huan Yang**, Simo Hosio, Koji Yatani
@@ -97,12 +103,6 @@ My research interest includes GAN/diffusion-based content creation, image/video 
   Yiyang Ma, **Huan Yang**, Wenjing Wang, Jianlong Fu, Jiaying Liu
 
   *Preprint* [\[paper\]](https://arxiv.org/abs/2303.09319)
-
-- **Online Video Streaming Super-Resolution with Adaptive Look-Up Table Fusion**
-  
-  Guanghao Yin, Xinyang Jiang, Shan Jiang, Zhenhua Han, Ningxin Zheng, **Huan Yang**, Donglin Bai, Haisheng Tan, Shouqian Sun, Yuqing Yang, Dongsheng Li, Lili Qiu
-
-  *TIP* [\[paper\]](https://arxiv.org/abs/2303.00334)
 
 - **Learning Degradation-Robust Spatiotemporal Frequency-Transformer for Video Super-Resolution**
   
