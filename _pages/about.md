@@ -20,6 +20,7 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 <span class='anchor' id='news'></span>
 
 # News
+- \[2024.02.15\] One paper is accepted by TIP.
 - \[2024.01.19\] One paper is accepted by CHI.
 - \[2024.01.16\] One paper is accepted by ICLR.
 
@@ -101,7 +102,7 @@ My research interest includes GAN/diffusion-based content creation, image/video 
   
   Guanghao Yin, Xinyang Jiang, Shan Jiang, Zhenhua Han, Ningxin Zheng, **Huan Yang**, Donglin Bai, Haisheng Tan, Shouqian Sun, Yuqing Yang, Dongsheng Li, Lili Qiu
 
-  *TIP Under Review* [\[paper\]](https://arxiv.org/abs/2303.00334)
+  *TIP* [\[paper\]](https://arxiv.org/abs/2303.00334)
 
 - **Learning Degradation-Robust Spatiotemporal Frequency-Transformer for Video Super-Resolution**
   
