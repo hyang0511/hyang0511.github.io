@@ -20,6 +20,7 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 <span class='anchor' id='news'></span>
 
 # News
+- \[2024.02.27\] One paper is accepted by CVPR.
 - \[2024.02.15\] One paper is accepted by TIP.
 - \[2024.01.19\] One paper is accepted by CHI.
 - \[2024.01.16\] One paper is accepted by ICLR.
@@ -43,6 +44,12 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 <span class='anchor' id='publications'></span>
 
 # Publications
+
+- **Zero-Reference Low-Light Enhancement via Physical Quadruple Priors**
+  
+  Wenjing Wang, **Huan Yang**, Jianlong Fu, Jiaying Liu
+
+  *CVPR 2024*
 
 - **Online Streaming Video Super-Resolution with Convolutional Look-Up Table**
   
