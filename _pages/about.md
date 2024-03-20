@@ -61,13 +61,13 @@ My research interest includes GAN/diffusion-based content creation, image/video 
   
   Anran Xu, Shitao Fang, **Huan Yang**, Simo Hosio, Koji Yatani
 
-  *CHI 2024* [\[paper\]](https://arxiv.org/abs/2307.16371)
+  *CHI 2024*
 
 - **Solving Diffusion ODEs with Optimal Boundary Conditions for Better Image Super-Resolution**
   
   Yiyang Ma, **Huan Yang**, Wenhan Yang, Jianlong Fu, Jiaying Liu
 
-  *ICLR 2014* [\[paper\]](https://arxiv.org/abs/2305.15357)
+  *ICLR 2024* [\[paper\]](https://arxiv.org/abs/2305.15357)
 
 - **MobileVidFactory: Automatic Diffusion-Based Social Media Video Generation for Mobile Devices from Text**
   
