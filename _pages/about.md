@@ -49,7 +49,7 @@ My research interest includes GAN/diffusion-based content creation, image/video 
   
   Wenjing Wang, **Huan Yang**, Jianlong Fu, Jiaying Liu
 
-  *CVPR 2024*
+  *CVPR 2024* [\[paper\]](https://arxiv.org/abs/2403.12933)
 
 - **Online Streaming Video Super-Resolution with Convolutional Look-Up Table**
   
