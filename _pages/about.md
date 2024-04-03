@@ -61,7 +61,7 @@ My research interest includes GAN/diffusion-based content creation, image/video 
   
   Anran Xu, Shitao Fang, **Huan Yang**, Simo Hosio, Koji Yatani
 
-  *CHI 2024*
+  *CHI 2024* [\[paper\]](https://s3.ap-northeast-1.amazonaws.com/anranxu.com/pdf/CHI2024.pdf)
 
 - **Solving Diffusion ODEs with Optimal Boundary Conditions for Better Image Super-Resolution**
   
