@@ -20,6 +20,7 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 <span class='anchor' id='news'></span>
 
 # News
+- \[2024.06.30\] One paper is accepted by TMLR.
 - \[2024.02.27\] One paper is accepted by CVPR.
 - \[2024.02.15\] One paper is accepted by TIP.
 - \[2024.01.19\] One paper is accepted by CHI.
@@ -45,11 +46,23 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 
 # Publications
 
+- **AnyV2V: A Plug-and-Play Framework for Any Video-to-Video Editing Tasks**
+
+  Max Ku, Cong Wei, Weiming Ren, **Huan Yang**, Wenhu Chen
+
+  *Preprint* [\[paper\]](https://arxiv.org/abs/2403.14468) [\[code\]](https://github.com/TIGER-AI-Lab/AnyV2V)
+
+- **ConsistI2V: Enhancing Visual Consistency for Image-to-Video Generation**
+
+  Weiming Ren, **Huan Yang**, Ge Zhang, Cong Wei, Xinrun Du, Wenhao Huang, Wenhu Chen
+
+  *TMLR* [\[paper\]](https://arxiv.org/abs/2402.04324) [\[code\]](https://github.com/TIGER-AI-Lab/ConsistI2V)
+
 - **Zero-Reference Low-Light Enhancement via Physical Quadruple Priors**
   
   Wenjing Wang, **Huan Yang**, Jianlong Fu, Jiaying Liu
 
-  *CVPR 2024* [\[paper\]](https://arxiv.org/abs/2403.12933)
+  *CVPR 2024* [\[paper\]](https://arxiv.org/abs/2403.12933) [\[code\]](https://github.com/daooshee/QuadPrior)
 
 - **Online Streaming Video Super-Resolution with Convolutional Look-Up Table**
   
@@ -91,7 +104,7 @@ My research interest includes GAN/diffusion-based content creation, image/video 
   
   Wenjing Wang, **Huan Yang**, Zixi Tuo, Huiguo He, Junchen Zhu, Jianlong Fu, Jiaying Liu
 
-  *Under Review* [\[paper\]](https://arxiv.org/abs/2305.10874)
+  *Under Review* [\[paper\]](https://arxiv.org/abs/2305.10874) [\[data\]](https://github.com/daooshee/HD-VG-130M)
 
 - **NUWA-XL: Diffusion over Diffusion for eXtremely Long Video Generation**
 
@@ -103,7 +116,7 @@ My research interest includes GAN/diffusion-based content creation, image/video 
   
   Zixi Tuo, **Huan Yang**, Jianlong Fu, Yujie Dun, Xueming Qian
 
-  *ICCV 2023* [\[paper\]](https://arxiv.org/abs/2303.09826)
+  *ICCV 2023* [\[paper\]](https://arxiv.org/abs/2303.09826) [\[code\]](https://github.com/researchmm/VQD-SR)
 
 - **Unified Multi-Modal Latent Diffusion for Joint Subject and Text Conditional Image Generation**
   
