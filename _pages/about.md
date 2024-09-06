@@ -11,7 +11,7 @@ redirect_from:
 <span class='anchor' id='about'></span>
 
 # About
-I am a senior algorithm expert at [01.AI](https://www.01.ai), multi-modality group, leading the direction of multi-modal generation. Before that, I am a senior researcher at Microsoft research asia, multi-modal computing group. We are hiring interns and researchers to work on content creation (diffusion-based generation and image/video manipulation) and low-level vision (image/video restoration and enhancement). If interested, feel free to email me with your CV.
+I am a senior algorithm expert at [01.AI](https://www.01.ai), multi-modality group, leading the direction of multi-modal generation. Before that, I am a senior researcher at Microsoft research Asia, multi-modal computing group. We are hiring interns and researchers to work on content creation (diffusion-based generation and image/video manipulation) and low-level vision (image/video restoration and enhancement). If interested, feel free to email me with your CV.
 
 I received my Ph.D. degree in computer science in 2019 from Shanghai Jiao Tong University, under the supervision of Dr. Baining Guo and Prof. Minyi Guo. During my Ph.D., I worked closely with Dr. Baoyuan Wang at Microsoft Research Asia. Before that, I received my B.S. in computer science in 2014 from Shanghai Jiao Tong University, under the supervision of Prof. Yong Yu and Prof. Minyi Guo.
 
@@ -20,6 +20,7 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 <span class='anchor' id='news'></span>
 
 # News
+- \[2024.07.31\] One paper is accepted by ToMM.
 - \[2024.06.30\] One paper is accepted by TMLR.
 - \[2024.02.27\] One paper is accepted by CVPR.
 - \[2024.02.15\] One paper is accepted by TIP.
@@ -45,6 +46,18 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 <span class='anchor' id='publications'></span>
 
 # Publications
+
+- **Prompt-Based Modality Bridging for Unified Text-to-Face Generation and Manipulation**
+
+  Yiyang Ma, Haowei Kuang, **Huan Yang**, Jianlong Fu, Jiaying Liu
+
+  *ToMM*
+
+- **DreamStory: Open-Domain Story Visualization by LLM-Guided Multi-Subject Consistent Diffusion**
+
+  Huiguo He, **Huan Yang**, Zixi Tuo, Yuan Zhou, Qiuyue Wang, Yuhang Zhang, Zeyu Liu, Wenhao Huang, Hongyang Chao, Jian Yin
+
+  *Preprint* [\[paper\]](https://arxiv.org/abs/2407.12899)
 
 - **AnyV2V: A Plug-and-Play Framework for Any Video-to-Video Editing Tasks**
 
@@ -273,12 +286,12 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 # Activities
 - CVPR Reviewer: 2024, 2023, 2022
 - ICCV Reviewer: 2023, 2021
-- ECCV Reviewer: 2022
-- NeurIPS Reviewer: 2023
-- ACM MM Reviewer: 2023
+- ECCV Reviewer: 2024, 2022
+- NeurIPS Reviewer: 2024, 2023
+- ACM MM Reviewer: 2024, 2023
 - ICASSP Reviewer: 2023
 - ICME Reviewer: 2023, 2022, 2021, 2020
-- Journal Reviewer: TIP, TMM, TMI, TCI, PR
+- Journal Reviewer: TIP, IJCV, TMM, TMI, TCI, PR
 
 <span class='anchor' id='talks'></span>
 
