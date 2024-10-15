@@ -20,6 +20,7 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 <span class='anchor' id='news'></span>
 
 # News
+- \[2024.09.27\] Nominated as Associate Editor for TMM.
 - \[2024.07.31\] One paper is accepted by ToMM.
 - \[2024.06.30\] One paper is accepted by TMLR.
 - \[2024.02.27\] One paper is accepted by CVPR.
@@ -51,7 +52,7 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 
   Yiyang Ma, Haowei Kuang, **Huan Yang**, Jianlong Fu, Jiaying Liu
 
-  *ToMM*
+  *ToMM* [\[paper\]](https://dl.acm.org/doi/10.1145/3694974)
 
 - **DreamStory: Open-Domain Story Visualization by LLM-Guided Multi-Subject Consistent Diffusion**
 
