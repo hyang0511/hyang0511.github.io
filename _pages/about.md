@@ -20,6 +20,7 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 <span class='anchor' id='news'></span>
 
 # News
+- \[2024.10.2\] Our Allegro text-to-video model is released.
 - \[2024.09.27\] Nominated as Associate Editor for TMM.
 - \[2024.07.31\] One paper is accepted by ToMM.
 - \[2024.06.30\] One paper is accepted by TMLR.
@@ -47,6 +48,12 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 <span class='anchor' id='publications'></span>
 
 # Publications
+
+- **Allegro: Open the Black Box of Commercial-Level Video Generation Model**
+
+  Yuan Zhou, Qiuyue Wang, Yuxuan Cai, **Huan Yang**
+
+  *Technical Report* [\[paper\]](https://arxiv.org/abs/2410.15458) [\[code\]](https://github.com/rhymes-ai/Allegro)
 
 - **Prompt-Based Modality Bridging for Unified Text-to-Face Generation and Manipulation**
 
@@ -267,6 +274,10 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 <span class='anchor' id='projects'></span>
 
 # Projects
+- Allegro Text-to-Video Generation Model [\[project\]](https://rhymes.ai/blog-details/allegro-advanced-video-generation-model)
+
+  We release our text-to-video generation model, named Allegro, aims at open the black box of commercial-level video generation model. Allegro is a powerful text-to-video model that generates high-quality videos up to 6 seconds at 15 FPS and 720p resolution from simple text input. It is fully open-sourced including code, model, technical report.
+
 - Video Super-Resolution for Edge Browser [\[project\]](https://blogs.windows.com/msedgedev/2023/03/08/video-super-resolution-in-microsoft-edge/)
   
   We release our new feautre of video super-resolution in [Edge](https://www.microsoft.com/edge). Video super resolution uses machine learning to enhance the quality of video viewed in Microsoft Edge by using graphics card agnostic algorithms to remove blocky compression artifacts and upscale the video resolution, so you can enjoy crisp and clear videos on YouTube and other video streaming platforms without sacrificing bandwidth.
