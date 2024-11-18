@@ -20,6 +20,7 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 <span class='anchor' id='news'></span>
 
 # News
+- \[2024.11.18\] One paper is accepted by TMLR.
 - \[2024.10.2\] Our Allegro text-to-video model is released.
 - \[2024.09.27\] Nominated as Associate Editor for TMM.
 - \[2024.07.31\] One paper is accepted by ToMM.
@@ -49,6 +50,12 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 
 # Publications
 
+- **AnyV2V: A Plug-and-Play Framework for Any Video-to-Video Editing Tasks**
+
+  Max Ku, Cong Wei, Weiming Ren, **Huan Yang**, Wenhu Chen
+
+  *TMLR* [\[paper\]](https://arxiv.org/abs/2403.14468) [\[code\]](https://github.com/TIGER-AI-Lab/AnyV2V)
+
 - **Allegro: Open the Black Box of Commercial-Level Video Generation Model**
 
   Yuan Zhou, Qiuyue Wang, Yuxuan Cai, **Huan Yang**
@@ -66,12 +73,6 @@ My research interest includes GAN/diffusion-based content creation, image/video 
   Huiguo He, **Huan Yang**, Zixi Tuo, Yuan Zhou, Qiuyue Wang, Yuhang Zhang, Zeyu Liu, Wenhao Huang, Hongyang Chao, Jian Yin
 
   *Preprint* [\[paper\]](https://arxiv.org/abs/2407.12899)
-
-- **AnyV2V: A Plug-and-Play Framework for Any Video-to-Video Editing Tasks**
-
-  Max Ku, Cong Wei, Weiming Ren, **Huan Yang**, Wenhu Chen
-
-  *Preprint* [\[paper\]](https://arxiv.org/abs/2403.14468) [\[code\]](https://github.com/TIGER-AI-Lab/AnyV2V)
 
 - **ConsistI2V: Enhancing Visual Consistency for Image-to-Video Generation**
 
