@@ -279,6 +279,8 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 
   We release our text-to-video generation model, named Allegro, aims at open the black box of commercial-level video generation model. Allegro is a powerful text-to-video model that generates high-quality videos up to 6 seconds at 15 FPS and 720p resolution from simple text input. It is fully open-sourced including code, model, technical report.
 
+  [![Allegro_Demo](https://img.youtube.com/vi/j6yTnnNdldo/maxresdefault.jpg)](https://www.youtube.com/watch?v=j6yTnnNdldo)
+
 - Video Super-Resolution for Edge Browser [\[project\]](https://blogs.windows.com/msedgedev/2023/03/08/video-super-resolution-in-microsoft-edge/)
   
   We release our new feautre of video super-resolution in [Edge](https://www.microsoft.com/edge). Video super resolution uses machine learning to enhance the quality of video viewed in Microsoft Edge by using graphics card agnostic algorithms to remove blocky compression artifacts and upscale the video resolution, so you can enjoy crisp and clear videos on YouTube and other video streaming platforms without sacrificing bandwidth.
