@@ -20,8 +20,9 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 <span class='anchor' id='news'></span>
 
 # News
+- \[2024.12.02\] One paper is accepted by IJCV.
 - \[2024.11.18\] One paper is accepted by TMLR.
-- \[2024.10.2\] Our Allegro text-to-video model is released.
+- \[2024.10.02\] Our Allegro text-to-video model is released.
 - \[2024.09.27\] Appointed as Associate Editor for TMM.
 - \[2024.07.31\] One paper is accepted by ToMM.
 - \[2024.06.30\] One paper is accepted by TMLR.
