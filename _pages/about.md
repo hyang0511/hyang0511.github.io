@@ -50,6 +50,18 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 
 # Publications
 
+- **Improving Multi-Subject Consistency in Open-Domain Image Generation with Isolation and Reposition Attention**
+
+  Huiguo He, Qiuyue Wang, Yuan Zhou, Yuxuan Cai, Hongyang Chao, Jian Yin, **Huan Yang**
+
+  *Preprint* [\[paper\]](https://arxiv.org/abs/2411.19261)
+
+- **Fleximo: Towards Flexible Text-to-Human Motion Video Generation**
+
+  Yuhang Zhang, Yuan Zhou, Zeyu Liu, Yuxuan Cai, Qiuyue Wang, Aidong Men, **Huan Yang**
+
+  *Preprint* [\[paper\]](https://arxiv.org/abs/2411.19459)
+
 - **AnyV2V: A Plug-and-Play Framework for Any Video-to-Video Editing Tasks**
 
   Max Ku, Cong Wei, Weiming Ren, **Huan Yang**, Wenhu Chen
