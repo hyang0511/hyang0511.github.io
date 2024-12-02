@@ -138,7 +138,7 @@ My research interest includes GAN/diffusion-based content creation, image/video 
   
   Wenjing Wang, **Huan Yang**, Zixi Tuo, Huiguo He, Junchen Zhu, Jianlong Fu, Jiaying Liu
 
-  *Under Review* [\[paper\]](https://arxiv.org/abs/2305.10874) [\[data\]](https://github.com/daooshee/HD-VG-130M)
+  *IJCV* [\[paper\]](https://arxiv.org/abs/2305.10874) [\[data\]](https://github.com/daooshee/HD-VG-130M)
 
 - **NUWA-XL: Diffusion over Diffusion for eXtremely Long Video Generation**
 
