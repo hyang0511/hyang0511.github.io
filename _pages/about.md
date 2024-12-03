@@ -51,6 +51,18 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 
 # Publications
 
+- **Long Video Diffusion Generation with Segmented Cross-Attention and Content-Rich Video Data Curation**
+
+  Xin Yan, Yuxuan Cai, Qiuyue Wang, Yuan Zhou, Wenhao Huang, **Huan Yang**
+
+  *Preprint* [\[paper\]](https://arxiv.org/abs/2412.01316)
+
+- **VISTA: Enhancing Long-Duration and High-Resolution Video Understanding by Video Spatiotemporal Augmentation**
+
+  Weiming Ren, **Huan Yang**, Jie Min, Cong Wei, Wenhu Chen
+
+  *Preprint* [\[paper\]](https://arxiv.org/abs/2412.00927)
+
 - **Improving Multi-Subject Consistency in Open-Domain Image Generation with Isolation and Reposition Attention**
 
   Huiguo He, Qiuyue Wang, Yuan Zhou, Yuxuan Cai, Hongyang Chao, Jian Yin, **Huan Yang**
