@@ -61,7 +61,7 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 
   Weiming Ren, **Huan Yang**, Jie Min, Cong Wei, Wenhu Chen
 
-  *Preprint* [\[paper\]](https://arxiv.org/abs/2412.00927)
+  *Preprint* [\[paper\]](https://arxiv.org/abs/2412.00927) [\[code\]](https://github.com/TIGER-AI-Lab/VISTA)
 
 - **Improving Multi-Subject Consistency in Open-Domain Image Generation with Isolation and Reposition Attention**
 
