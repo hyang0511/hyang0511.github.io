@@ -55,7 +55,7 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 
   Xin Yan, Yuxuan Cai, Qiuyue Wang, Yuan Zhou, Wenhao Huang, **Huan Yang**
 
-  *Preprint* [\[paper\]](https://arxiv.org/abs/2412.01316)
+  *Preprint* [\[paper\]](https://arxiv.org/abs/2412.01316) [\[code\]](https://github.com/Cakeyan/Presto)
 
 - **VISTA: Enhancing Long-Duration and High-Resolution Video Understanding by Video Spatiotemporal Augmentation**
 
