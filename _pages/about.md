@@ -20,6 +20,7 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 <span class='anchor' id='news'></span>
 
 # News
+- \[2025.02.27\] Two papers are accepted by CVPR.
 - \[2025.01.06\] One paper is accepted by IJCV.
 - \[2024.11.18\] One paper is accepted by TMLR.
 - \[2024.10.02\] Our Allegro text-to-video model is released.
@@ -55,13 +56,13 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 
   Xin Yan, Yuxuan Cai, Qiuyue Wang, Yuan Zhou, Wenhao Huang, **Huan Yang**
 
-  *Preprint* [\[paper\]](https://arxiv.org/abs/2412.01316) [\[code\]](https://github.com/Cakeyan/Presto)
+  *CVPR 2025* [\[paper\]](https://arxiv.org/abs/2412.01316) [\[code\]](https://github.com/Cakeyan/Presto)
 
 - **VISTA: Enhancing Long-Duration and High-Resolution Video Understanding by Video Spatiotemporal Augmentation**
 
   Weiming Ren, **Huan Yang**, Jie Min, Cong Wei, Wenhu Chen
 
-  *Preprint* [\[paper\]](https://arxiv.org/abs/2412.00927) [\[code\]](https://github.com/TIGER-AI-Lab/VISTA)
+  *CVPR 2025* [\[paper\]](https://arxiv.org/abs/2412.00927) [\[code\]](https://github.com/TIGER-AI-Lab/VISTA)
 
 - **Improving Multi-Subject Consistency in Open-Domain Image Generation with Isolation and Reposition Attention**
 
