@@ -52,17 +52,11 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 
 # Publications
 
-- **Long Video Diffusion Generation with Segmented Cross-Attention and Content-Rich Video Data Curation**
+- **Vamba: Understanding Hour-Long Videos with Hybrid Mamba-Transformers**
 
-  Xin Yan, Yuxuan Cai, Qiuyue Wang, Yuan Zhou, Wenhao Huang, **Huan Yang**
+  Weiming Ren, Wentao Ma, **Huan Yang**, Cong Wei, Ge Zhang, Wenhu Chen
 
-  *CVPR 2025* [\[paper\]](https://arxiv.org/abs/2412.01316) [\[code\]](https://github.com/Cakeyan/Presto)
-
-- **VISTA: Enhancing Long-Duration and High-Resolution Video Understanding by Video Spatiotemporal Augmentation**
-
-  Weiming Ren, **Huan Yang**, Jie Min, Cong Wei, Wenhu Chen
-
-  *CVPR 2025* [\[paper\]](https://arxiv.org/abs/2412.00927) [\[code\]](https://github.com/TIGER-AI-Lab/VISTA)
+  *Preprint*
 
 - **Improving Multi-Subject Consistency in Open-Domain Image Generation with Isolation and Reposition Attention**
 
@@ -75,6 +69,18 @@ My research interest includes GAN/diffusion-based content creation, image/video 
   Yuhang Zhang, Yuan Zhou, Zeyu Liu, Yuxuan Cai, Qiuyue Wang, Aidong Men, **Huan Yang**
 
   *Preprint* [\[paper\]](https://arxiv.org/abs/2411.19459)
+
+- **Long Video Diffusion Generation with Segmented Cross-Attention and Content-Rich Video Data Curation**
+
+  Xin Yan, Yuxuan Cai, Qiuyue Wang, Yuan Zhou, Wenhao Huang, **Huan Yang**
+
+  *CVPR 2025* [\[paper\]](https://arxiv.org/abs/2412.01316) [\[code\]](https://github.com/Cakeyan/Presto)
+
+- **VISTA: Enhancing Long-Duration and High-Resolution Video Understanding by Video Spatiotemporal Augmentation**
+
+  Weiming Ren, **Huan Yang**, Jie Min, Cong Wei, Wenhu Chen
+
+  *CVPR 2025* [\[paper\]](https://arxiv.org/abs/2412.00927) [\[code\]](https://github.com/TIGER-AI-Lab/VISTA)
 
 - **AnyV2V: A Plug-and-Play Framework for Any Video-to-Video Editing Tasks**
 
