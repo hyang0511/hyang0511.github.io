@@ -20,6 +20,7 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 <span class='anchor' id='news'></span>
 
 # News
+- \[2025.03.10\] One paper is accepted by PR.
 - \[2025.02.27\] Two papers are accepted by CVPR.
 - \[2025.01.06\] One paper is accepted by IJCV.
 - \[2024.11.18\] One paper is accepted by TMLR.
@@ -51,6 +52,12 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 <span class='anchor' id='publications'></span>
 
 # Publications
+
+- **Learning Position-Aware Implicit Neural Network for Real-World Face Inpainting**
+
+  Bo Zhao, **Huan Yang**, Jianlong Fu
+
+  *PR* [\[paper\]](https://arxiv.org/abs/2401.10537)
 
 - **Vamba: Understanding Hour-Long Videos with Hybrid Mamba-Transformers**
 
