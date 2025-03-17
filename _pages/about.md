@@ -63,7 +63,7 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 
   Weiming Ren, Wentao Ma, **Huan Yang**, Cong Wei, Ge Zhang, Wenhu Chen
 
-  *Preprint*
+  *Preprint* [\[paper\]](https://arxiv.org/abs/2503.11579) [\[code\]](https://github.com/TIGER-AI-Lab/Vamba)
 
 - **Improving Multi-Subject Consistency in Open-Domain Image Generation with Isolation and Reposition Attention**
 
