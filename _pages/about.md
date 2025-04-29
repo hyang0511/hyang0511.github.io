@@ -69,7 +69,7 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 
   Huiguo He, Qiuyue Wang, Yuan Zhou, Yuxuan Cai, Hongyang Chao, Jian Yin, **Huan Yang**
 
-  *Preprint* [\[paper\]](https://arxiv.org/abs/2411.19261)
+  *Preprint* [\[paper\]](https://arxiv.org/abs/2411.19261) [\[code\]](https://github.com/hehuiguo/DreamStory)
 
 - **Fleximo: Towards Flexible Text-to-Human Motion Video Generation**
 
@@ -111,7 +111,7 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 
   Huiguo He, **Huan Yang**, Zixi Tuo, Yuan Zhou, Qiuyue Wang, Yuhang Zhang, Zeyu Liu, Wenhao Huang, Hongyang Chao, Jian Yin
 
-  *Preprint* [\[paper\]](https://arxiv.org/abs/2407.12899)
+  *Preprint* [\[paper\]](https://arxiv.org/abs/2407.12899) [\[code\]](https://github.com/hehuiguo/DreamStory)
 
 - **ConsistI2V: Enhancing Visual Consistency for Image-to-Video Generation**
 
