@@ -53,6 +53,12 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 
 # Publications
 
+- **Mod-Adapter: Tuning-Free and Versatile Multi-concept Personalization via Modulation Adapter**
+
+  Weizhi Zhong, **Huan Yang**, Zheng Liu, Huiguo He, Zijian He, Xuesong Niu, Di Zhang, Guanbin Li
+
+  *Preprint* [\[paper\]](https://arxiv.org/abs/2505.18612)
+
 - **Learning Position-Aware Implicit Neural Network for Real-World Face Inpainting**
 
   Bo Zhao, **Huan Yang**, Jianlong Fu
