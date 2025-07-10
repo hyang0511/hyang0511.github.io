@@ -11,7 +11,7 @@ redirect_from:
 <span class='anchor' id='about'></span>
 
 # About
-I am a senior algorithm expert at [01.AI](https://lingyiwanwu.com/), multi-modality group, leading the direction of multi-modal generation. Before that, I am a senior researcher at Microsoft research Asia, multi-modal computing group. We are hiring interns and researchers to work on content creation (diffusion-based generation and image/video manipulation) and low-level vision (image/video restoration and enhancement). If interested, feel free to email me with your CV.
+I am a senior algorithm expert at [Kuaishou Kling](https://klingai.com/cn/) group, leading the [Kolors](https://app.klingai.com/cn/text-to-image/new) base model team. Previously, I am a senior algorithm expert at [01.AI](https://lingyiwanwu.com/), multi-modality group, leading the direction of multi-modal generation. Before that, I am a senior researcher at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), multi-modal computing group. We are hiring interns and researchers to work on content creation (diffusion-based generation and image/video manipulation) and low-level vision (image/video restoration and enhancement). If interested, feel free to email me with your CV.
 
 I received my Ph.D. degree in computer science in 2019 from Shanghai Jiao Tong University, under the supervision of Dr. Baining Guo and Prof. Minyi Guo. During my Ph.D., I worked closely with Dr. Baoyuan Wang at Microsoft Research Asia. Before that, I received my B.S. in computer science in 2014 from Shanghai Jiao Tong University, under the supervision of Prof. Yong Yu and Prof. Minyi Guo.
 
@@ -20,6 +20,9 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 <span class='anchor' id='news'></span>
 
 # News
+- \[2025.07.11\] Our Kolors 2.1 text-to-image model is online.
+- \[2025.06.26\] Two papers are accepted by ICCV.
+- \[2025.03.10\] Our Kolors 2.0 text-to-image model is online.
 - \[2025.03.10\] One paper is accepted by PR.
 - \[2025.02.27\] Two papers are accepted by CVPR.
 - \[2025.01.06\] One paper is accepted by IJCV.
@@ -53,6 +56,12 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 
 # Publications
 
+- **Vamba: Understanding Hour-Long Videos with Hybrid Mamba-Transformers**
+
+  Weiming Ren, Wentao Ma, **Huan Yang**, Cong Wei, Ge Zhang, Wenhu Chen
+
+  *ICCV 2025* [\[paper\]](https://arxiv.org/abs/2503.11579) [\[code\]](https://github.com/TIGER-AI-Lab/Vamba)
+
 - **Mod-Adapter: Tuning-Free and Versatile Multi-concept Personalization via Modulation Adapter**
 
   Weizhi Zhong, **Huan Yang**, Zheng Liu, Huiguo He, Zijian He, Xuesong Niu, Di Zhang, Guanbin Li
@@ -64,12 +73,6 @@ My research interest includes GAN/diffusion-based content creation, image/video 
   Bo Zhao, **Huan Yang**, Jianlong Fu
 
   *PR* [\[paper\]](https://arxiv.org/abs/2401.10537)
-
-- **Vamba: Understanding Hour-Long Videos with Hybrid Mamba-Transformers**
-
-  Weiming Ren, Wentao Ma, **Huan Yang**, Cong Wei, Ge Zhang, Wenhu Chen
-
-  *Preprint* [\[paper\]](https://arxiv.org/abs/2503.11579) [\[code\]](https://github.com/TIGER-AI-Lab/Vamba)
 
 - **Improving Multi-Subject Consistency in Open-Domain Image Generation with Isolation and Reposition Attention**
 
