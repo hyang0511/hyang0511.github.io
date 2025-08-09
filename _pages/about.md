@@ -20,6 +20,7 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 <span class='anchor' id='news'></span>
 
 # News
+- \[2025.08.09\] One paper is accepted by TPAMI.
 - \[2025.07.11\] Our Kolors 2.1 text-to-image model is online.
 - \[2025.06.26\] Two papers are accepted by ICCV.
 - \[2025.03.10\] Our Kolors 2.0 text-to-image model is online.
@@ -55,6 +56,12 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 <span class='anchor' id='publications'></span>
 
 # Publications
+
+- **DreamStory: Open-Domain Story Visualization by LLM-Guided Multi-Subject Consistent Diffusion**
+
+  Huiguo He, **Huan Yang**, Zixi Tuo, Yuan Zhou, Qiuyue Wang, Yuhang Zhang, Zeyu Liu, Wenhao Huang, Hongyang Chao, Jian Yin
+
+  *TPAMI* [\[paper\]](https://arxiv.org/abs/2407.12899) [\[code\]](https://github.com/hehuiguo/DreamStory)
 
 - **Vamba: Understanding Hour-Long Videos with Hybrid Mamba-Transformers**
 
@@ -115,12 +122,6 @@ My research interest includes GAN/diffusion-based content creation, image/video 
   Yiyang Ma, Haowei Kuang, **Huan Yang**, Jianlong Fu, Jiaying Liu
 
   *ToMM* [\[paper\]](https://dl.acm.org/doi/10.1145/3694974)
-
-- **DreamStory: Open-Domain Story Visualization by LLM-Guided Multi-Subject Consistent Diffusion**
-
-  Huiguo He, **Huan Yang**, Zixi Tuo, Yuan Zhou, Qiuyue Wang, Yuhang Zhang, Zeyu Liu, Wenhao Huang, Hongyang Chao, Jian Yin
-
-  *Preprint* [\[paper\]](https://arxiv.org/abs/2407.12899) [\[code\]](https://github.com/hehuiguo/DreamStory)
 
 - **ConsistI2V: Enhancing Visual Consistency for Image-to-Video Generation**
 
