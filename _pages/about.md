@@ -69,6 +69,12 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 
   *ICCV 2025* [\[paper\]](https://arxiv.org/abs/2503.11579) [\[code\]](https://github.com/TIGER-AI-Lab/Vamba)
 
+- **SEGA: A Stepwise Evolution Paradigm for Content-Aware Layout Generation with Design Prior**
+
+  Bo Zhao, Haoran Wang, Jinghui Wang, Hanzhang Wang, **Huan Yang**, Wei Ji, Hao Liu, Xinyan Xiao
+
+  *ICCV 2025* [\[paper\]](https://iccv.thecvf.com/virtual/2025/poster/1121)
+
 - **Mod-Adapter: Tuning-Free and Versatile Multi-concept Personalization via Modulation Adapter**
 
   Weizhi Zhong, **Huan Yang**, Zheng Liu, Huiguo He, Zijian He, Xuesong Niu, Di Zhang, Guanbin Li
