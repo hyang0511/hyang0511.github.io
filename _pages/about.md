@@ -20,6 +20,7 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 <span class='anchor' id='news'></span>
 
 # News
+- \[2025.09.24\] One paper is accepted by NeurIPS.
 - \[2025.08.09\] One paper is accepted by TPAMI.
 - \[2025.07.11\] Our Kolors 2.1 text-to-image model is online.
 - \[2025.06.26\] Two papers are accepted by ICCV.
@@ -56,7 +57,12 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 <span class='anchor' id='publications'></span>
 
 # Publications
+- **Diffusion Model as a Noise-Aware Latent Reward Model for Step-Level Preference Optimization**
 
+  Tao Zhang, Cheng Da, Kun Ding, **Huan Yang**, Kun Jin, Yan Li, Tingting Gao, Di Zhang, Shiming Xiang, Chunhong Pan
+
+  *NeurIPS 2025* [\[paper\]](https://arxiv.org/abs/2502.01051) [\[code\]](https://github.com/Kwai-Kolors/LPO)
+  
 - **DreamStory: Open-Domain Story Visualization by LLM-Guided Multi-Subject Consistent Diffusion**
 
   Huiguo He, **Huan Yang**, Zixi Tuo, Yuan Zhou, Qiuyue Wang, Yuhang Zhang, Zeyu Liu, Wenhao Huang, Hongyang Chao, Jian Yin
@@ -73,7 +79,7 @@ My research interest includes GAN/diffusion-based content creation, image/video 
 
   Bo Zhao, Haoran Wang, Jinghui Wang, Hanzhang Wang, **Huan Yang**, Wei Ji, Hao Liu, Xinyan Xiao
 
-  *ICCV 2025* [\[paper\]](https://iccv.thecvf.com/virtual/2025/poster/1121)
+  *ICCV 2025* [\[paper\]](https://arxiv.org/abs/2510.15749) [\[code\]](https://brucew91.github.io/SEGA.github.io/)
 
 - **Mod-Adapter: Tuning-Free and Versatile Multi-concept Personalization via Modulation Adapter**
 
